@@ -1,7 +1,7 @@
 @echo off
 :start
 ::Server name
-set serverName=
+set serverName=GhostWolf DeerIsle
 ::Server files location
 set serverLocation="C:\DayZServer_x64"
 ::Server Port
@@ -16,7 +16,7 @@ title %serverName% batch
 cd "%serverLocation%"
 echo (%time%) %serverName% started.
 ::Launch parameters (edit end: -config=|-port=|-profiles=|-doLogs|-adminLog|-netLog|-freezeCheck|-filePatching|-BEpath=|-cpuCount=)
-start "DayZ Server" /min "DayZServer_x64.exe" -config=%serverConfig% -port=2302 -profiles=Profilesfolder "-mod=@ArrakisTraderSigns;@Jiggles Signs;@DayZ-Expansion-Bundle;@DayZ-Expansion-Licensed;@DeerIsle;@VPPAdminTools;@Dabs Framework;@CF" -cpuCount=%serverCPU% -dologs -adminlog -netlog -freezecheck
+start "DayZ Server" /min "DayZServer_x64.exe" -config=%serverConfig% -port=2302 -profiles=Profilesfolder "-mod=@Bullet Stacking - More Ammo;@ArrakisTraderSigns;@Jiggles Signs;@DayZ-Expansion-Bundle;@DayZ-Expansion-Licensed;@DeerIsle;@VPPAdminTools;@Dabs Framework;@CF" -cpuCount=%serverCPU% -dologs -adminlog -netlog -freezecheck
 ::Time in seconds before kill server process (14400 = 4 hours)
 timeout 14500
 taskkill /im DayZServer_x64.exe /F
