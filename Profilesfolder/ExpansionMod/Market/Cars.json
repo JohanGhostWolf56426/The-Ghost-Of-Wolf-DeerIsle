@@ -1,0 +1,181 @@
+{
+    "m_Version": 12,
+    "DisplayName": "CARS",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "offroadhatchback",
+            "MaxPriceThreshold": 28000,
+            "MinPriceThreshold": 28000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 4,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "OffroadHatchback_Blue",
+                "OffroadHatchback_White",
+                "OffroadHatchback_Green"
+            ]
+        },
+        {
+            "ClassName": "hatchback_02",
+            "MaxPriceThreshold": 32000,
+            "MinPriceThreshold": 32000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Hatchback_02_Black",
+                "Hatchback_02_Blue",
+                "Hatchback_02_Red",
+                "Hatchback_02_BanditKitty"
+            ]
+        },
+        {
+            "ClassName": "sedan_02",
+            "MaxPriceThreshold": 36000,
+            "MinPriceThreshold": 36000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Sedan_02_Grey",
+                "Sedan_02_Red",
+                "Sedan_02_Yellow",
+                "Sedan_02_YellowBright",
+                "Sedan_02_Blue"
+            ]
+        },
+        {
+            "ClassName": "civiliansedan",
+            "MaxPriceThreshold": 40000,
+            "MinPriceThreshold": 40000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "truck_01_covered",
+            "MaxPriceThreshold": 100000,
+            "MinPriceThreshold": 100000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Truck_01_Covered_Blue",
+                "Truck_01_Covered_Orange",
+                "Truck_01_Covered_Red",
+                "Truck_01_Covered_White",
+                "Truck_01_Covered_Black",
+                "Truck_01_Covered_Wine",
+                "Truck_01_Covered_Lime",
+                "Truck_01_Covered_Yellow",
+                "Truck_01_Covered_YellowBright"
+            ]
+        },
+        {
+            "ClassName": "offroad_02",
+            "MaxPriceThreshold": 100000,
+            "MinPriceThreshold": 100000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "ExpansionUAZ",
+            "MaxPriceThreshold": 110000,
+            "MinPriceThreshold": 110000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "ExpansionUAZRoofless",
+                "ExpansionUAZCargo",
+                "ExpansionUAZCargoRoofless",
+                "ExpansionUAZ_Black",
+                "ExpansionUAZCargo_Black",
+                "ExpansionUAZ_LightGreen",
+                "ExpansionUAZCargo_LightGreen",
+                "ExpansionUAZCargoRoofless_Black",
+                "ExpansionUAZCargoRoofless_LightGreen",
+                "ExpansionUAZRoofless_Black",
+                "ExpansionUAZRoofless_LightGreen"
+            ]
+        },
+        {
+            "ClassName": "ExpansionVodnik",
+            "MaxPriceThreshold": 120000,
+            "MinPriceThreshold": 120000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "ExpansionBus",
+            "MaxPriceThreshold": 130000,
+            "MinPriceThreshold": 130000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "ExpansionBus_Red",
+                "ExpansionBus_Weeb"
+            ]
+        },
+        {
+            "ClassName": "ExpansionTractor",
+            "MaxPriceThreshold": 140000,
+            "MinPriceThreshold": 140000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "ExpansionTractor_Blue",
+                "ExpansionTractor_Green"
+            ]
+        },
+        {
+            "ClassName": "Expansion_Landrover",
+            "MaxPriceThreshold": 150000,
+            "MinPriceThreshold": 150000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Expansion_Landrover_Yellow",
+                "Expansion_Landrover_Orange",
+                "Expansion_Landrover_Red",
+                "Expansion_Landrover_Blue",
+                "Expansion_Landrover_Grey",
+                "Expansion_Landrover_Green"
+            ]
+        }
+    ]
+}

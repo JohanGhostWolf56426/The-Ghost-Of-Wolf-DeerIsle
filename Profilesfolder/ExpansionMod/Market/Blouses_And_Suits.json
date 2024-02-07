@@ -1,0 +1,73 @@
+{
+    "m_Version": 12,
+    "DisplayName": "BLOUSES & SUITS",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "blouse_blue",
+            "MaxPriceThreshold": 32,
+            "MinPriceThreshold": 32,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "blouse_violet",
+                "blouse_white"
+            ]
+        },
+        {
+            "ClassName": "blouse_green",
+            "MaxPriceThreshold": 36,
+            "MinPriceThreshold": 36,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "mansuit_beige",
+            "MaxPriceThreshold": 36,
+            "MinPriceThreshold": 36,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "mansuit_black",
+                "mansuit_blue",
+                "mansuit_brown",
+                "mansuit_darkgrey",
+                "mansuit_khaki",
+                "mansuit_lightgrey",
+                "mansuit_white"
+            ]
+        },
+        {
+            "ClassName": "womansuit_beige",
+            "MaxPriceThreshold": 36,
+            "MinPriceThreshold": 36,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "womansuit_black",
+                "womansuit_blue",
+                "womansuit_brown",
+                "womansuit_darkgrey",
+                "womansuit_khaki",
+                "womansuit_lightgrey",
+                "womansuit_white"
+            ]
+        }
+    ]
+}
