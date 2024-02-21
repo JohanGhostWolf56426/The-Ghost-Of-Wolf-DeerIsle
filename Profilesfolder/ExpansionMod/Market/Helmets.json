@@ -347,7 +347,11 @@
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
-            "Variants": []
+            "Variants": [
+                "BallisticHelmet_BDU",
+                "BallisticHelmet_Desert",
+                "BallisticHelmet_Woodland"
+            ]
         },
         {
             "ClassName": "chainmail_coif",
