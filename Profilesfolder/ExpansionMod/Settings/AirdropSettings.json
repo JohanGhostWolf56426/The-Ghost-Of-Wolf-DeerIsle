@@ -11,7 +11,7 @@
     "Radius": 1.0,
     "InfectedSpawnRadius": 50.0,
     "InfectedSpawnInterval": 250,
-    "ItemCount": 50,
+    "ItemCount": -25,
     "Containers": [
         {
             "Container": "ExpansionAirdropContainer",
@@ -111,7 +111,7 @@
                 "ZmbF_MilkMaidOld_Green",
                 "ZmbF_MilkMaidOld_Grey"
             ],
-            "ItemCount": 30,
+            "ItemCount": -25,
             "InfectedCount": 10,
             "SpawnInfectedForPlayerCalledDrops": 0,
             "Loot": [
@@ -178,15 +178,6 @@
                 {
                     "Name": "WeaponCleaningKit",
                     "Chance": 0.05000000074505806,
-                    "Attachments": [],
-                    "QuantityPercent": -1,
-                    "Max": -1,
-                    "Min": 0,
-                    "Variants": []
-                },
-                {
-                    "Name": "ChernarusMap",
-                    "Chance": 0.30000001192092898,
                     "Attachments": [],
                     "QuantityPercent": -1,
                     "Max": -1,
@@ -1522,107 +1513,8 @@
                     "Variants": []
                 },
                 {
-                    "Name": "Ammo_12gaPellets",
-                    "Chance": 1.0,
-                    "Attachments": [],
-                    "QuantityPercent": -1,
-                    "Max": -1,
-                    "Min": 0,
-                    "Variants": []
-                },
-                {
-                    "Name": "Ammo_9x39",
-                    "Chance": 0.5,
-                    "Attachments": [],
-                    "QuantityPercent": -1,
-                    "Max": -1,
-                    "Min": 0,
-                    "Variants": []
-                },
-                {
-                    "Name": "Ammo_762x39",
-                    "Chance": 1.0,
-                    "Attachments": [],
-                    "QuantityPercent": -1,
-                    "Max": -1,
-                    "Min": 0,
-                    "Variants": []
-                },
-                {
-                    "Name": "Ammo_45ACP",
-                    "Chance": 1.0,
-                    "Attachments": [],
-                    "QuantityPercent": -1,
-                    "Max": -1,
-                    "Min": 0,
-                    "Variants": []
-                },
-                {
-                    "Name": "Ammo_308Win",
-                    "Chance": 1.0,
-                    "Attachments": [],
-                    "QuantityPercent": -1,
-                    "Max": -1,
-                    "Min": 0,
-                    "Variants": []
-                },
-                {
-                    "Name": "Ammo_12gaSlug",
-                    "Chance": 1.0,
-                    "Attachments": [],
-                    "QuantityPercent": -1,
-                    "Max": -1,
-                    "Min": 0,
-                    "Variants": []
-                },
-                {
-                    "Name": "Ammo_12gaRubberSlug",
-                    "Chance": 1.0,
-                    "Attachments": [],
-                    "QuantityPercent": -1,
-                    "Max": -1,
-                    "Min": 0,
-                    "Variants": []
-                },
-                {
-                    "Name": "Ammo_12gaPellets",
-                    "Chance": 0.5,
-                    "Attachments": [],
-                    "QuantityPercent": -1,
-                    "Max": -1,
-                    "Min": 0,
-                    "Variants": []
-                },
-                {
-                    "Name": "NailBox",
-                    "Chance": 0.800000011920929,
-                    "Attachments": [],
-                    "QuantityPercent": -1,
-                    "Max": -1,
-                    "Min": 0,
-                    "Variants": []
-                },
-                {
                     "Name": "DuctTape",
                     "Chance": 0.20000000298023225,
-                    "Attachments": [],
-                    "QuantityPercent": -1,
-                    "Max": -1,
-                    "Min": 0,
-                    "Variants": []
-                },
-                {
-                    "Name": "MetalPlate",
-                    "Chance": 0.25,
-                    "Attachments": [],
-                    "QuantityPercent": -1,
-                    "Max": -1,
-                    "Min": 0,
-                    "Variants": []
-                },
-                {
-                    "Name": "WoodenPlank",
-                    "Chance": 0.5,
                     "Attachments": [],
                     "QuantityPercent": -1,
                     "Max": -1,
@@ -1738,24 +1630,13 @@
                     "Variants": []
                 },
                 {
-                    "Name": "CombinationLock",
+                    "Name": "ExpansionCodeLock",
                     "Chance": 0.10000000149011612,
                     "Attachments": [],
                     "QuantityPercent": -1,
                     "Max": -1,
                     "Min": 0,
-                    "Variants": [
-                        {
-                            "Name": "CombinationLock4",
-                            "Chance": 1.0,
-                            "Attachments": []
-                        },
-                        {
-                            "Name": "ExpansionCodeLock",
-                            "Chance": 1.0,
-                            "Attachments": []
-                        }
-                    ]
+                    "Variants": []
                 },
                 {
                     "Name": "CamoNet",
@@ -1785,24 +1666,6 @@
                             "Attachments": []
                         }
                     ],
-                    "QuantityPercent": -1,
-                    "Max": -1,
-                    "Min": 0,
-                    "Variants": []
-                },
-                {
-                    "Name": "ExpansionPropaneTorch",
-                    "Chance": 0.15000000596046449,
-                    "Attachments": [],
-                    "QuantityPercent": -1,
-                    "Max": -1,
-                    "Min": 0,
-                    "Variants": []
-                },
-                {
-                    "Name": "ExpansionBoltCutters",
-                    "Chance": 0.17499999701976777,
-                    "Attachments": [],
                     "QuantityPercent": -1,
                     "Max": -1,
                     "Min": 0,
@@ -2213,15 +2076,6 @@
                     "Variants": []
                 },
                 {
-                    "Name": "SalineBagIV",
-                    "Chance": 0.10000000149011612,
-                    "Attachments": [],
-                    "QuantityPercent": -1,
-                    "Max": -1,
-                    "Min": 0,
-                    "Variants": []
-                },
-                {
                     "Name": "SalineBag",
                     "Chance": 0.10000000149011612,
                     "Attachments": [],
@@ -2233,24 +2087,6 @@
                 {
                     "Name": "BloodBagEmpty",
                     "Chance": 0.15000000596046449,
-                    "Attachments": [],
-                    "QuantityPercent": -1,
-                    "Max": -1,
-                    "Min": 0,
-                    "Variants": []
-                },
-                {
-                    "Name": "BloodBagIV",
-                    "Chance": 0.10000000149011612,
-                    "Attachments": [],
-                    "QuantityPercent": -1,
-                    "Max": -1,
-                    "Min": 0,
-                    "Variants": []
-                },
-                {
-                    "Name": "BloodTestKit",
-                    "Chance": 0.20000000298023225,
                     "Attachments": [],
                     "QuantityPercent": -1,
                     "Max": -1,
@@ -2386,42 +2222,6 @@
                             "Attachments": []
                         }
                     ],
-                    "QuantityPercent": -1,
-                    "Max": -1,
-                    "Min": 0,
-                    "Variants": []
-                },
-                {
-                    "Name": "GhillieAtt_Mossy",
-                    "Chance": 0.20000000298023225,
-                    "Attachments": [],
-                    "QuantityPercent": -1,
-                    "Max": -1,
-                    "Min": 0,
-                    "Variants": []
-                },
-                {
-                    "Name": "GhillieHood_Mossy",
-                    "Chance": 0.10000000149011612,
-                    "Attachments": [],
-                    "QuantityPercent": -1,
-                    "Max": -1,
-                    "Min": 0,
-                    "Variants": []
-                },
-                {
-                    "Name": "GhillieBushrag_Mossy",
-                    "Chance": 0.05000000074505806,
-                    "Attachments": [],
-                    "QuantityPercent": -1,
-                    "Max": -1,
-                    "Min": 0,
-                    "Variants": []
-                },
-                {
-                    "Name": "GhillieSuit_Mossy",
-                    "Chance": 0.05000000074505806,
-                    "Attachments": [],
                     "QuantityPercent": -1,
                     "Max": -1,
                     "Min": 0,
@@ -2631,7 +2431,7 @@
                 "ZmbF_PatientOld",
                 "ZmbM_PatientSkinny"
             ],
-            "ItemCount": 25,
+            "ItemCount": -25,
             "InfectedCount": 10,
             "SpawnInfectedForPlayerCalledDrops": 0,
             "Loot": [
@@ -3020,15 +2820,6 @@
                     "Variants": []
                 },
                 {
-                    "Name": "SalineBagIV",
-                    "Chance": 0.10000000149011612,
-                    "Attachments": [],
-                    "QuantityPercent": -1,
-                    "Max": -1,
-                    "Min": 0,
-                    "Variants": []
-                },
-                {
                     "Name": "SalineBag",
                     "Chance": 0.10000000149011612,
                     "Attachments": [],
@@ -3040,24 +2831,6 @@
                 {
                     "Name": "BloodBagEmpty",
                     "Chance": 0.15000000596046449,
-                    "Attachments": [],
-                    "QuantityPercent": -1,
-                    "Max": -1,
-                    "Min": 0,
-                    "Variants": []
-                },
-                {
-                    "Name": "BloodBagIV",
-                    "Chance": 0.10000000149011612,
-                    "Attachments": [],
-                    "QuantityPercent": -1,
-                    "Max": -1,
-                    "Min": 0,
-                    "Variants": []
-                },
-                {
-                    "Name": "BloodTestKit",
-                    "Chance": 0.20000000298023225,
                     "Attachments": [],
                     "QuantityPercent": -1,
                     "Max": -1,
@@ -3288,7 +3061,7 @@
                 "ZmbM_ConstrWorkerNormal_Grey",
                 "ZmbM_HeavyIndustryWorker"
             ],
-            "ItemCount": 50,
+            "ItemCount": -25,
             "InfectedCount": 10,
             "SpawnInfectedForPlayerCalledDrops": 0,
             "Loot": [
@@ -3322,51 +3095,6 @@
                 {
                     "Name": "ExpansionGunrack",
                     "Chance": 0.05000000074505806,
-                    "Attachments": [],
-                    "QuantityPercent": -1,
-                    "Max": -1,
-                    "Min": 0,
-                    "Variants": []
-                },
-                {
-                    "Name": "ExpansionCone",
-                    "Chance": 0.20000000298023225,
-                    "Attachments": [],
-                    "QuantityPercent": -1,
-                    "Max": -1,
-                    "Min": 0,
-                    "Variants": []
-                },
-                {
-                    "Name": "ExpansionSignDanger",
-                    "Chance": 0.20000000298023225,
-                    "Attachments": [],
-                    "QuantityPercent": -1,
-                    "Max": -1,
-                    "Min": 0,
-                    "Variants": []
-                },
-                {
-                    "Name": "ExpansionSignDanger2",
-                    "Chance": 0.20000000298023225,
-                    "Attachments": [],
-                    "QuantityPercent": -1,
-                    "Max": -1,
-                    "Min": 0,
-                    "Variants": []
-                },
-                {
-                    "Name": "ExpansionSignDanger3",
-                    "Chance": 0.20000000298023225,
-                    "Attachments": [],
-                    "QuantityPercent": -1,
-                    "Max": -1,
-                    "Min": 0,
-                    "Variants": []
-                },
-                {
-                    "Name": "ExpansionSignRoadBarrier",
-                    "Chance": 0.15000000596046449,
                     "Attachments": [],
                     "QuantityPercent": -1,
                     "Max": -1,
@@ -3581,24 +3309,13 @@
                     "Variants": []
                 },
                 {
-                    "Name": "CombinationLock",
+                    "Name": "ExpansionCodeLock",
                     "Chance": 0.10000000149011612,
                     "Attachments": [],
                     "QuantityPercent": -1,
                     "Max": -1,
                     "Min": 0,
-                    "Variants": [
-                        {
-                            "Name": "CombinationLock4",
-                            "Chance": 1.0,
-                            "Attachments": []
-                        },
-                        {
-                            "Name": "ExpansionCodeLock",
-                            "Chance": 1.0,
-                            "Attachments": []
-                        }
-                    ]
+                    "Variants": []
                 },
                 {
                     "Name": "CamoNet",
@@ -3628,24 +3345,6 @@
                             "Attachments": []
                         }
                     ],
-                    "QuantityPercent": -1,
-                    "Max": -1,
-                    "Min": 0,
-                    "Variants": []
-                },
-                {
-                    "Name": "ExpansionPropaneTorch",
-                    "Chance": 0.15000000596046449,
-                    "Attachments": [],
-                    "QuantityPercent": -1,
-                    "Max": -1,
-                    "Min": 0,
-                    "Variants": []
-                },
-                {
-                    "Name": "ExpansionBoltCutters",
-                    "Chance": 0.17499999701976777,
-                    "Attachments": [],
                     "QuantityPercent": -1,
                     "Max": -1,
                     "Min": 0,
@@ -3696,7 +3395,7 @@
                 "ZmbM_PatrolNormal_Flat",
                 "ZmbM_PatrolNormal_Summer"
             ],
-            "ItemCount": 50,
+            "ItemCount": -25,
             "InfectedCount": 10,
             "SpawnInfectedForPlayerCalledDrops": 0,
             "Loot": [
@@ -3725,26 +3424,8 @@
                     "Variants": []
                 },
                 {
-                    "Name": "GhillieAtt_Mossy",
-                    "Chance": 0.05000000074505806,
-                    "Attachments": [],
-                    "QuantityPercent": -1,
-                    "Max": -1,
-                    "Min": 0,
-                    "Variants": []
-                },
-                {
                     "Name": "WeaponCleaningKit",
                     "Chance": 0.05000000074505806,
-                    "Attachments": [],
-                    "QuantityPercent": -1,
-                    "Max": -1,
-                    "Min": 0,
-                    "Variants": []
-                },
-                {
-                    "Name": "ChernarusMap",
-                    "Chance": 0.30000001192092898,
                     "Attachments": [],
                     "QuantityPercent": -1,
                     "Max": -1,
@@ -5667,78 +5348,6 @@
                     "Variants": []
                 },
                 {
-                    "Name": "Ammo_762x54Tracer",
-                    "Chance": 0.07999999821186066,
-                    "Attachments": [],
-                    "QuantityPercent": -1,
-                    "Max": -1,
-                    "Min": 0,
-                    "Variants": []
-                },
-                {
-                    "Name": "Ammo_762x54",
-                    "Chance": 0.10000000149011612,
-                    "Attachments": [],
-                    "QuantityPercent": -1,
-                    "Max": -1,
-                    "Min": 0,
-                    "Variants": []
-                },
-                {
-                    "Name": "Ammo_762x39Tracer",
-                    "Chance": 0.10000000149011612,
-                    "Attachments": [],
-                    "QuantityPercent": -1,
-                    "Max": -1,
-                    "Min": 0,
-                    "Variants": []
-                },
-                {
-                    "Name": "Ammo_762x39",
-                    "Chance": 0.11999999731779099,
-                    "Attachments": [],
-                    "QuantityPercent": -1,
-                    "Max": -1,
-                    "Min": 0,
-                    "Variants": []
-                },
-                {
-                    "Name": "Ammo_556x45Tracer",
-                    "Chance": 0.07000000029802323,
-                    "Attachments": [],
-                    "QuantityPercent": -1,
-                    "Max": -1,
-                    "Min": 0,
-                    "Variants": []
-                },
-                {
-                    "Name": "Ammo_556x45",
-                    "Chance": 0.10999999940395355,
-                    "Attachments": [],
-                    "QuantityPercent": -1,
-                    "Max": -1,
-                    "Min": 0,
-                    "Variants": []
-                },
-                {
-                    "Name": "Ammo_545x39Tracer",
-                    "Chance": 0.07000000029802323,
-                    "Attachments": [],
-                    "QuantityPercent": -1,
-                    "Max": -1,
-                    "Min": 0,
-                    "Variants": []
-                },
-                {
-                    "Name": "Ammo_545x39",
-                    "Chance": 0.10000000149011612,
-                    "Attachments": [],
-                    "QuantityPercent": -1,
-                    "Max": -1,
-                    "Min": 0,
-                    "Variants": []
-                },
-                {
                     "Name": "Ammo_Expansion_M203_Smoke_White",
                     "Chance": 0.07999999821186066,
                     "Attachments": [],
@@ -6233,42 +5842,6 @@
                             "Attachments": []
                         }
                     ],
-                    "QuantityPercent": -1,
-                    "Max": -1,
-                    "Min": 0,
-                    "Variants": []
-                },
-                {
-                    "Name": "GhillieAtt_Mossy",
-                    "Chance": 0.20000000298023225,
-                    "Attachments": [],
-                    "QuantityPercent": -1,
-                    "Max": -1,
-                    "Min": 0,
-                    "Variants": []
-                },
-                {
-                    "Name": "GhillieHood_Mossy",
-                    "Chance": 0.10000000149011612,
-                    "Attachments": [],
-                    "QuantityPercent": -1,
-                    "Max": -1,
-                    "Min": 0,
-                    "Variants": []
-                },
-                {
-                    "Name": "GhillieBushrag_Mossy",
-                    "Chance": 0.05000000074505806,
-                    "Attachments": [],
-                    "QuantityPercent": -1,
-                    "Max": -1,
-                    "Min": 0,
-                    "Variants": []
-                },
-                {
-                    "Name": "GhillieSuit_Mossy",
-                    "Chance": 0.05000000074505806,
-                    "Attachments": [],
                     "QuantityPercent": -1,
                     "Max": -1,
                     "Min": 0,
