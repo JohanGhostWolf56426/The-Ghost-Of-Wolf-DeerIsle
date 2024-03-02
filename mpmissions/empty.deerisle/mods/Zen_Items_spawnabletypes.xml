@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<spawnabletypes>	
+	<type name="Zen_Virus_Cure_Microscope">
+		<damage min="0.0" max="0.32" />
+	</type>	
+</spawnabletypes>
