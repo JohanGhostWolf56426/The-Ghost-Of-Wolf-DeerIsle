@@ -14,8 +14,7 @@
     "VirusAddPerBleedMin": 10,
     "VirusAddPerBleedMax": 20,
     "CreatureGuaranteedVirus": [
-        "infected",
-        "add_scary_monster_types_here"
+        "infected"
     ],
     "CONFIG_INFECTION": "------------------------------------------------------------------------------------------------------------------",
     "ChanceOfWoundInfectionBleed": 0.5,
@@ -62,11 +61,11 @@
     "ChanceOfBrain": 0.5,
     "ChanceOfBrainRuined": 0.1,
     "ChanceOfBones": 1.0,
-    "ChanceOfBonesRuined": 0.949999988079071,
+    "ChanceOfBonesRuined": 0.01,
     "ChanceOfGuts": 0.5,
-    "ChanceOfGutsRuined": 0.949999988079071,
+    "ChanceOfGutsRuined": 0.01,
     "ChanceOfWorm": 0.5,
-    "ChanceOfWormRuined": 0.949999988079071,
+    "ChanceOfWormRuined": 0.01,
     "CONFIG_DEBUG": "----------------------------------------------------------------------------------------------------------------------",
     "VirusMaxAmount": 1000,
     "VirusActivateAmount": 100,

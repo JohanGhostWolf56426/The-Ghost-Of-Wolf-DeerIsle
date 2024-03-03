@@ -2,10 +2,10 @@
 <types>
 	<!-- Zen Virus -->
 	<type name="Zen_Virus_Cure_Injector"> <!-- Cures the virus -->
-        <nominal>4</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -15,7 +15,7 @@
 		<usage name="ContaminatedArea"/>
     </type>
 	<type name="Zen_Virus_AntiBodiesVial"> <!-- Cures the virus -->
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -28,10 +28,10 @@
         <usage name="Medic"/>
     </type>
 	<type name="Zen_Virus_Cure_Petridish"> <!-- Cures the virus -->
-        <nominal>12</nominal>
+        <nominal>5</nominal>
         <lifetime>14400</lifetime>
-        <restock>0</restock>
-        <min>6</min>
+        <restock>3600</restock>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -44,10 +44,10 @@
 		<value name="Tier3"/>
     </type>
 	<type name="Zen_Virus_Cure_Microscope"> <!-- Cures the virus -->
-        <nominal>12</nominal>
+        <nominal>5</nominal>
         <lifetime>86400</lifetime>
-        <restock>0</restock>
-        <min>6</min>
+        <restock>3600</restock>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -60,14 +60,14 @@
 		<value name="Tier3"/>
     </type>
 	<type name="Zen_Virus_Cure_Microscope_Static"> <!-- Cures the virus - cannot be picked up or moved. Place this using DayZ Editor or ZenVirus.json -->
-        <lifetime>9999999</lifetime>
+        <lifetime>3888000</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
 	<type name="Syringe"> <!-- Cures the virus -->
-        <nominal>18</nominal>
+        <nominal>10</nominal>
         <lifetime>14400</lifetime>
-        <restock>0</restock>
-        <min>8</min>
+        <restock>3600</restock>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -84,11 +84,11 @@
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
 	<type name="Zen_Virus_Injector_Empty"> <!-- Junk item -->
-        <lifetime>7200</lifetime>
+        <lifetime>3600</lifetime>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
 	<type name="Zen_Virus_Cure_Injector_Empty"> <!-- Junk item -->
-        <lifetime>7200</lifetime>
+        <lifetime>3600</lifetime>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
 	<type name="Zen_Virus_Brain"> <!-- Cures the virus -->

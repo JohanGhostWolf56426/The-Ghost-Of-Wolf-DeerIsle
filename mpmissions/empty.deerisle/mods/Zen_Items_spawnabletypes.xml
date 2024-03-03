@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <spawnabletypes>	
 	<type name="Zen_Virus_Cure_Microscope">
-		<damage min="0.0" max="0.32" />
+		<damage min="0.01" max="0.02" />
 	</type>	
+	<type name="Zen_Virus_Cure_Petridish">
+		<damage min="0.01" max="0.02" />
+	</type>
+	<type name="Syringe">
+		<damage min="0.01" max="0.02" />
+	</type>
 </spawnabletypes>

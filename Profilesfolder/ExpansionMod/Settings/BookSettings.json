@@ -195,25 +195,13 @@
             "CategoryName": "General Info",
             "Descriptions": [
                 {
-                    "DescriptionText": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet."
-                },
-                {
-                    "DescriptionText": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet."
-                },
-                {
-                    "DescriptionText": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet."
+                    "DescriptionText": "If you are infected by the Zombie Virus, you can use Tetracycline and Multivitamins to Cure. If tetra and vitamins not working you will need to make a cure. Check the Crafting Category for the making of a cure. "
                 }
             ]
         },
         {
             "CategoryName": "Mod Info",
             "Descriptions": [
-                {
-                    "DescriptionText": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet."
-                },
-                {
-                    "DescriptionText": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet."
-                },
                 {
                     "DescriptionText": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet."
                 }
@@ -223,156 +211,67 @@
     "CraftingCategories": [
         {
             "CategoryName": "Accessories",
-            "Results": [
-                "armband_",
-                "armband_white",
-                "eyepatch_improvised"
-            ]
+            "Results": []
         },
         {
             "CategoryName": "Backpacks",
-            "Results": [
-                "courierbag",
-                "furcourierbag",
-                "furimprovisedbag",
-                "improvisedbag",
-                "leathersack_brown"
-            ]
+            "Results": []
         },
         {
             "CategoryName": "Base-Building",
-            "Results": [
-                "expansionbarbedwirekit",
-                "fencekit",
-                "expansionfloorkit",
-                "expansionhelipadkit",
-                "expansionhescokit",
-                "expansionrampkit",
-                "shelterkit",
-                "expansionstairkit",
-                "territoryflagkit",
-                "expansionwallkit",
-                "watchtowerkit"
-            ]
+            "Results": [ ]
         },
         {
             "CategoryName": "Camouflage",
-            "Results": [
-                "camonet",
-                "ghillieatt_tan",
-                "ghillieatt_mossy",
-                "ghillieatt_woodland",
-                "ghilliebushrag_tan",
-                "ghilliebushrag_mossy",
-                "ghilliebushrag_woodland",
-                "ghilliehood_tan",
-                "ghilliehood_mossy",
-                "ghilliehood_woodland",
-                "ghilliesuit_tan",
-                "ghilliesuit_mossy",
-                "ghilliesuit_woodland",
-                "ghillietop_tan",
-                "ghillietop_mossy",
-                "ghillietop_woodland"
-            ]
+            "Results": [ ]
         },
         {
             "CategoryName": "Cooking",
-            "Results": [
-                "fireplace",
-                "firewood",
-                "handdrillkit"
-            ]
+            "Results": []
         },
         {
             "CategoryName": "Fishing",
-            "Results": [
-                "bait",
-                "bonebait",
-                "bonehook",
-                "improvisedfishingrod"
-            ]
+            "Results": []
         },
         {
             "CategoryName": "Food",
-            "Results": [
-                "carpfilletmeat",
-                "mackerelfilletmeat",
-                "expansionmilkbottle",
-                "potato",
-                "slicedpumpkin"
-            ]
+            "Results": []
         },
         {
             "CategoryName": "Horticulture",
-            "Results": [
-                "pepperseeds",
-                "pumpkinseeds",
-                "tomatoseeds",
-                "zucchiniseeds"
-            ]
+            "Results": []
         },
         {
             "CategoryName": "Lights",
-            "Results": [
-                "longtorch",
-                "torch"
-            ]
+            "Results": []
         },
         {
             "CategoryName": "Medical Supplies",
             "Results": [
-                "bloodbagiv",
-                "salinebagiv",
-                "splint"
+                "Zen_Virus_Cure_Injector",
+                "Zen_Virus_AntiBodiesVial"
             ]
         },
         {
             "CategoryName": "Melee Weapons",
-            "Results": [
-                "nailedbaseballbat",
-                "stoneknife"
-            ]
+            "Results": []
         },
         {
             "CategoryName": "Storage",
-            "Results": [
-                "woodencrate"
-            ]
+            "Results": []
         },
         {
             "CategoryName": "Supplies",
-            "Results": [
-                "boarpelt",
-                "burlapsack",
-                "burlapstrip",
-                "longwoodenstick",
-                "expansionlumber1",
-                "expansionlumber1_5",
-                "expansionlumber3",
-                "nails",
-                "netting",
-                "rag",
-                "rope",
-                "sharpwoodenstick",
-                "smallstone",
-                "tannedleather",
-                "woodenplank",
-                "woodenstick"
-            ]
+            "Results": []
         },
         {
             "CategoryName": "Weapon Modifications",
-            "Results": [
-                "sawedoffizh18shotgun"
-            ]
+            "Results": [ ]
         },
         {
             "CategoryName": "Weapon Attachments",
-            "Results": [
-                "improvisedsuppressor"
-            ]
+            "Results": []
         }
     ],
-    "EnableCraftingRecipesTab": 0
+    "EnableCraftingRecipesTab": 1
 }
