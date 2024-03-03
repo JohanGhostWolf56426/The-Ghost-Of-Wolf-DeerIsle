@@ -195,7 +195,10 @@
             "CategoryName": "General Info",
             "Descriptions": [
                 {
-                    "DescriptionText": "If you are infected by the Zombie Virus, you can use Tetracycline and Multivitamins to Cure. If tetra and vitamins not working you will need to make a cure. Check the Crafting Category for the making of a cure. "
+                    "DescriptionText": "If you are infected by the Zombie Virus, you can use Tetracycline and Multivitamins to Cure. If tetra and vitamins not working you will need to make a cure."
+                },
+                {
+                    "DescriptionText": "Cure Crafting: STEP 1: Microscope, 9V Battery, Petridish, Zombie Brain(Obtain from Zombie), a Full Blood Bag from your blood, STEP 2: AntiBodies Vial, Syringe"
                 }
             ]
         },
@@ -248,8 +251,7 @@
         {
             "CategoryName": "Medical Supplies",
             "Results": [
-                "Zen_Virus_Cure_Injector",
-                "Zen_Virus_AntiBodiesVial"
+                "Zen_Virus_Cure_Injector"
             ]
         },
         {

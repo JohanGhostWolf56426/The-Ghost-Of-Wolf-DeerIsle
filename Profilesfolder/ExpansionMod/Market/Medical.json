@@ -282,7 +282,7 @@
             "Variants": []
         },
         {
-            "ClassName": "Zen_Virus_Injectorr",
+            "ClassName": "Zen_Virus_Injector",
             "MaxPriceThreshold": 6036,
             "MinPriceThreshold": 6036,
             "SellPricePercent": -1.0,
