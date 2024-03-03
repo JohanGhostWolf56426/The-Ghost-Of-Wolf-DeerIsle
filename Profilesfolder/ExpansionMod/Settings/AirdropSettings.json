@@ -1973,6 +1973,104 @@
                                     "Attachments": []
                                 }
                             ]
+                        },
+                        {
+                            "Name": "FirstAidKit",
+                            "Chance": 0.01,
+                            "Attachments": [
+                                {
+                                    "Name": "Zen_Virus_Cure_Injector",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                }
+                            ]
+                        },
+                        {
+                            "Name": "FirstAidKit",
+                            "Chance": 0.01,
+                            "Attachments": [
+                                {
+                                    "Name": "Zen_Virus_Injector",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                }
+                            ]
+                        },
+                        {
+                            "Name": "FirstAidKit",
+                            "Chance": 0.01,
+                            "Attachments": [
+                                {
+                                    "Name": "Zen_Virus_PathogenVial",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "Syringe",
+                                    "Chance": 0.5,
+                                    "Attachments": []
+                                }
+                            ]
+                        },
+                        {
+                            "Name": "FirstAidKit",
+                            "Chance": 0.01,
+                            "Attachments": [
+                                {
+                                    "Name": "Zen_Virus_AntiBodiesVial",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "Syringe",
+                                    "Chance": 0.1,
+                                    "Attachments": []
+                                }
+                            ]
+                        },
+                        {
+                            "Name": "FirstAidKit",
+                            "Chance": 0.02,
+                            "Attachments": [
+                                {
+                                    "Name": "Zen_Virus_PathogenVial",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                }
+                            ]
+                        },
+                        {
+                            "Name": "FirstAidKit",
+                            "Chance": 0.02,
+                            "Attachments": [
+                                {
+                                    "Name": "Zen_Virus_AntiBodiesVial",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                }
+                            ]
+                        },
+                        {
+                            "Name": "FirstAidKit",
+                            "Chance": 0.02,
+                            "Attachments": [
+                                {
+                                    "Name": "Syringe",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                }
+                            ]
+                        },
+                        {
+                            "Name": "FirstAidKit",
+                            "Chance": 0.02,
+                            "Attachments": [
+                                {
+                                    "Name": "Zen_Virus_Cure_Petridish",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                }
+                            ]
                         }
                     ]
                 },
@@ -2713,6 +2811,104 @@
                                 },
                                 {
                                     "Name": "BandageDressing",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                }
+                            ]
+                        },
+                        {
+                            "Name": "FirstAidKit",
+                            "Chance": 0.02,
+                            "Attachments": [
+                                {
+                                    "Name": "Zen_Virus_Cure_Injector",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                }
+                            ]
+                        },
+                        {
+                            "Name": "FirstAidKit",
+                            "Chance": 0.02,
+                            "Attachments": [
+                                {
+                                    "Name": "Zen_Virus_Injector",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                }
+                            ]
+                        },
+                        {
+                            "Name": "FirstAidKit",
+                            "Chance": 0.02,
+                            "Attachments": [
+                                {
+                                    "Name": "Zen_Virus_PathogenVial",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "Syringe",
+                                    "Chance": 0.5,
+                                    "Attachments": []
+                                }
+                            ]
+                        },
+                        {
+                            "Name": "FirstAidKit",
+                            "Chance": 0.02,
+                            "Attachments": [
+                                {
+                                    "Name": "Zen_Virus_AntiBodiesVial",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "Syringe",
+                                    "Chance": 0.1,
+                                    "Attachments": []
+                                }
+                            ]
+                        },
+                        {
+                            "Name": "FirstAidKit",
+                            "Chance": 0.03,
+                            "Attachments": [
+                                {
+                                    "Name": "Zen_Virus_PathogenVial",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                }
+                            ]
+                        },
+                        {
+                            "Name": "FirstAidKit",
+                            "Chance": 0.03,
+                            "Attachments": [
+                                {
+                                    "Name": "Zen_Virus_AntiBodiesVial",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                }
+                            ]
+                        },
+                        {
+                            "Name": "FirstAidKit",
+                            "Chance": 0.04,
+                            "Attachments": [
+                                {
+                                    "Name": "Syringe",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                }
+                            ]
+                        },
+                        {
+                            "Name": "FirstAidKit",
+                            "Chance": 0.05,
+                            "Attachments": [
+                                {
+                                    "Name": "Zen_Virus_Cure_Petridish",
                                     "Chance": 1.0,
                                     "Attachments": []
                                 }
@@ -5945,6 +6141,109 @@
                     "Max": -1,
                     "Min": 0,
                     "Variants": []
+                },
+                {
+                    "Name": "FirstAidKit",
+                    "Chance": 0.02,
+                    "Attachments": [
+                        {
+                            "Name": "Zen_Virus_Cure_Injector",
+                            "Chance": 1.0,
+                            "Attachments": []
+                        }
+                    ],
+                    "QuantityPercent": 1,
+                    "Max": 1,
+                    "Min": 0,
+                    "Variants": [
+                        {
+                            "Name": "FirstAidKit",
+                            "Chance": 0.02,
+                            "Attachments": [
+                                {
+                                    "Name": "Zen_Virus_Injector",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                }
+                            ]
+                        },
+                        {
+                            "Name": "FirstAidKit",
+                            "Chance": 0.02,
+                            "Attachments": [
+                                {
+                                    "Name": "Zen_Virus_PathogenVial",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "Syringe",
+                                    "Chance": 0.5,
+                                    "Attachments": []
+                                }
+                            ]
+                        },
+                        {
+                            "Name": "FirstAidKit",
+                            "Chance": 0.02,
+                            "Attachments": [
+                                {
+                                    "Name": "Zen_Virus_AntiBodiesVial",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "Syringe",
+                                    "Chance": 0.1,
+                                    "Attachments": []
+                                }
+                            ]
+                        },
+                        {
+                            "Name": "FirstAidKit",
+                            "Chance": 0.03,
+                            "Attachments": [
+                                {
+                                    "Name": "Zen_Virus_PathogenVial",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                }
+                            ]
+                        },
+                        {
+                            "Name": "FirstAidKit",
+                            "Chance": 0.03,
+                            "Attachments": [
+                                {
+                                    "Name": "Zen_Virus_AntiBodiesVial",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                }
+                            ]
+                        },
+                        {
+                            "Name": "FirstAidKit",
+                            "Chance": 0.04,
+                            "Attachments": [
+                                {
+                                    "Name": "Syringe",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                }
+                            ]
+                        },
+                        {
+                            "Name": "FirstAidKit",
+                            "Chance": 0.05,
+                            "Attachments": [
+                                {
+                                    "Name": "Zen_Virus_Cure_Petridish",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                }
+                            ]
+                        }
+                    ]
                 }
             ]
         }
