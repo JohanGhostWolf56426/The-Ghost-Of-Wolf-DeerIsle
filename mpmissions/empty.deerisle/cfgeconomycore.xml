@@ -42,9 +42,13 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 		<file name="expansion_events.xml" type="events" />
 	</ce>
 	<!-- Expansion End -->
-	<!-- Zen Items Start -->
+	<!-- mods start -->
 	<ce folder="mods">
+		<!-- Zen items -->
 		<file name="Zen_Items_types.xml" type="types"/>
 		<file name="Zen_Items_spawnabletypes.xml" type="spawnabletypes"/>
+		<!-- AMS -->
+		<file name="AMS_types.xml" type="types"/>
+		<file name="AMS_spawnabletypes.xml" type="spawnabletypes"/>
 	</ce>
 </economycore>

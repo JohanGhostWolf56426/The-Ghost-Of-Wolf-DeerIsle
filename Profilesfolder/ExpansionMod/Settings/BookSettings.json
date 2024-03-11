@@ -199,6 +199,78 @@
                 },
                 {
                     "DescriptionText": "Cure Crafting: STEP 1: Microscope, 9V Battery, Petridish, Zombie Brain(Obtain from Zombie), a Full Blood Bag from your blood, STEP 2: AntiBodies Vial, Syringe"
+                },
+                {
+                    "DescriptionText": "First Aid Kit. A additional first aid kit with higher capacity (30 Slots) than the vanilla one only being able to store medical supplies."
+                },
+                {
+                    "DescriptionText": "Box of Bandages. Storage container for 36 AMS bandages. Bandages inside will not be damaged from bullet impacts or other kind of damage."
+                },
+                {
+                    "DescriptionText": "Bandages. Onetime use bandages with faster bandaging speed. You can cut normal bandages into this ones using any knife or sharp object."
+                },
+                {
+                    "DescriptionText": "Absorbent. Onetime cotton pad with super fast bandaging speed. Only stops blood flow of the wound for later treatment when in safety. (Can be crafted from disinfected bandage (at most worn) and paper (at most damaged))"
+                },
+                {
+                    "DescriptionText": "Tape. Repair tool for bandages. Can be used to restore health of a bandage."
+                },
+                {
+                    "DescriptionText": "Antiseptic Disinfection Power. Disinfection power for wounds with high multiple uses."
+                },
+                {
+                    "DescriptionText": "Polaris. Alternative painkiller."
+                },
+                {
+                    "DescriptionText": "Aspirin. Gets rid of fever, cold and influenza for 15min in order to give player the ability to slowly treat the disease with other means."
+                },
+                {
+                    "DescriptionText": "Poter. Prevents puking from food poisoning, salmonella and cholera for 2min. High quantity count (40)"
+                },
+                {
+                    "DescriptionText": "Energy. Increases stamina recovery speed by 65% for 10min."
+                },
+                {
+                    "DescriptionText": "Narcotics. Knocks target out when injected."
+                },
+                {
+                    "DescriptionText": "Vikasol. Decreases lifetime and blood loss of wounds by 50% for 15min."
+                },
+                {
+                    "DescriptionText": "Ai2. Common medkit stopping 2 bleeds, restores 5 health, gives painkiller and wound disinfection in one go."
+                },
+                {
+                    "DescriptionText": "Tourniquet. Stops blood flow of ONE wound for later treatment. Has multiple uses. Health of tourniquet degenerates depending on how long the tourniquet is active. Tourniquet is granted back after wounds are treated."
+                },
+                {
+                    "DescriptionText": "Methadone. Durable morphine alternative (10min). After effect wears of a cold turkey effect giving hand shivers is active for another 10min."
+                },
+                {
+                    "DescriptionText": "BandAid. Pack of 30 always disinfected bandaids capable of stopping bleeds from defined zones (hands, arm and feet)."
+                },
+                {
+                    "DescriptionText": "Splint. Compact (2x2) alu splint that can be used 5 times when legs are broken."
+                },
+                {
+                    "DescriptionText": "MFAK. Military first aid kit (2x2) with 5x4 slots capable of only storing medical supplied. Can be attached to gun holster slot on belts and vests."
+                },
+                {
+                    "DescriptionText": "NBC Pouch. Storage pouch (2x2) for empty NBC parts. Can be attached to gun holster slot on belts and vests or simply kept in inventory."
+                },
+                {
+                    "DescriptionText": "WaterStraw,Makes it possible to drink directly from open water (rivers/ponds) without getting sick. Item is consumed over time when drinking. In order to drink lay down and the action will be prompted holding left mouse button in order to drink."
+                },
+                {
+                    "DescriptionText": "Blood Test Kit. After using a blood test kit to determine the blood type of a player an additional report item is yield within the players inventory or on ground giving additional information about other sickness levels. The report can be inspected afterwards by any player showing the result of the player whos blood has been tested."
+                },
+                {
+                    "DescriptionText": "POX. Alternative pox. Resets ALL chemical poisoning. Knocks player out if poisoning level is greater equal to stage 3 poisoning."
+                },
+                {
+                    "DescriptionText": "Heatpack. Long lasting resuable heatpack that can be charged when boiled in hot water."
+                },
+                {
+                    "DescriptionText": "Golden Star. Can be used to treat common cold."
                 }
             ]
         },

@@ -1,7 +1,7 @@
 {
     "m_Version": 5,
     "ServerMarkerOnDropLocation": 1,
-    "Server3DMarkerOnDropLocation": 1,
+    "Server3DMarkerOnDropLocation": 0,
     "ShowAirdropTypeOnMarker": 0,
     "HideCargoWhileParachuteIsDeployed": 1,
     "HeightIsRelativeToGroundLevel": 1,
@@ -2423,6 +2423,361 @@
                     "Max": -1,
                     "Min": 0,
                     "Variants": []
+                },
+                {
+                    "Name": "AMS_FirstAidKit",
+                    "Chance": 0.1,
+                    "Attachments": [],
+                    "QuantityPercent": -1,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": [
+                        {
+                            "Name": "AMS_FirstAidKit",
+                            "Chance": 0.05,
+                            "Attachments": [
+                                {
+                                    "Name": "AMS_Bandage",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "AMS_Bandage",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "AMS_Bandage",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "AMS_Bandage",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                }
+                            ]
+                        },
+                        {
+                            "Name": "AMS_FirstAidKit",
+                            "Chance": 0.05,
+                            "Attachments": [
+                                {
+                                    "Name": "AMS_Absorbent",
+                                    "Chance": 0.5,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "AMS_Bandage",
+                                    "Chance": 0.5,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "MS_BandageTape",
+                                    "Chance": 0.1,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "AMS_AntiSept",
+                                    "Chance": 0.1,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "AMS_Ai2",
+                                    "Chance": 0.05,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "AMS_Polaris",
+                                    "Chance": 0.1,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "AMS_Aspirin",
+                                    "Chance": 0.1,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "AMS_Poter",
+                                    "Chance": 0.05,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "AMS_Vikasol",
+                                    "Chance": 0.1,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "AMS_Energy",
+                                    "Chance": 0.1,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "AMS_Narcotics",
+                                    "Chance": 0.1,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "AMS_Tourniquet",
+                                    "Chance": 0.1,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "AMS_Methadone",
+                                    "Chance": 0.1,
+                                    "Attachments": []
+                                }
+                            ]
+                        },
+                        {
+                            "Name": "AMS_FirstAidKit",
+                            "Chance": 0.05,
+                            "Attachments": [
+                                {
+                                    "Name": "AMS_Absorbent",
+                                    "Chance": 0.5,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "AMS_Bandage",
+                                    "Chance": 0.5,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "MS_BandageTape",
+                                    "Chance": 0.1,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "AMS_AntiSept",
+                                    "Chance": 0.1,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "AMS_Ai2",
+                                    "Chance": 0.05,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "AMS_Polaris",
+                                    "Chance": 0.1,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "AMS_Aspirin",
+                                    "Chance": 0.1,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "AMS_Poter",
+                                    "Chance": 0.05,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "AMS_Vikasol",
+                                    "Chance": 0.1,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "AMS_Energy",
+                                    "Chance": 0.1,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "AMS_Narcotics",
+                                    "Chance": 0.1,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "AMS_Tourniquet",
+                                    "Chance": 0.1,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "AMS_Methadone",
+                                    "Chance": 0.1,
+                                    "Attachments": []
+                                }
+                            ]
+                        },
+                        {
+                            "Name": "AMS_FirstAidKit",
+                            "Chance": 0.05,
+                            "Attachments": [
+                                {
+                                    "Name": "AMS_Absorbent",
+                                    "Chance": 0.5,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "AMS_Bandage",
+                                    "Chance": 0.5,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "MS_BandageTape",
+                                    "Chance": 0.1,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "AMS_AntiSept",
+                                    "Chance": 0.1,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "AMS_Polaris",
+                                    "Chance": 0.1,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "AMS_Aspirin",
+                                    "Chance": 0.1,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "AMS_Vikasol",
+                                    "Chance": 0.1,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "AMS_Energy",
+                                    "Chance": 0.1,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "AMS_Narcotics",
+                                    "Chance": 0.1,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "AMS_Tourniquet",
+                                    "Chance": 0.1,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "AMS_Methadone",
+                                    "Chance": 0.1,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "AMS_BandAid",
+                                    "Chance": 0.1,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "AMS_Splint",
+                                    "Chance": 0.05,
+                                    "Attachments": []
+                                }
+                            ]
+                        },
+                        {
+                            "Name": "AMS_FirstAidKit",
+                            "Chance": 0.05,
+                            "Attachments": [
+                                {
+                                    "Name": "AMS_Absorbent",
+                                    "Chance": 0.5,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "AMS_Bandage",
+                                    "Chance": 0.5,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "MS_BandageTape",
+                                    "Chance": 0.1,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "AMS_AntiSept",
+                                    "Chance": 0.1,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "AMS_Polaris",
+                                    "Chance": 0.1,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "AMS_Aspirin",
+                                    "Chance": 0.1,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "AMS_Vikasol",
+                                    "Chance": 0.1,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "AMS_Energy",
+                                    "Chance": 0.1,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "AMS_Narcotics",
+                                    "Chance": 0.1,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "AMS_Tourniquet",
+                                    "Chance": 0.1,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "AMS_Methadone",
+                                    "Chance": 0.1,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "AMS_BandAid",
+                                    "Chance": 0.1,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "AMS_WaterStraw",
+                                    "Chance": 0.1,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "AMS_POX",
+                                    "Chance": 0.1,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "AMS_Heatpack",
+                                    "Chance": 0.1,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "AMS_GoldenStar",
+                                    "Chance": 0.1,
+                                    "Attachments": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Name": "AMS_NBCPouch",
+                    "Chance": 0.01,
+                    "Attachments": [],
+                    "QuantityPercent": -1,
+                    "Max": 1,
+                    "Min": 0,
+                    "Variants": [
+                        {   
+                            "Name": "AMS_NBCPouch_Green",
+                            "Chance": 0.05,
+                            "Attachments": []
+                        },
+                        {   
+                            "Name": "AMS_NBCPouch_Black",
+                            "Chance": 0.05,
+                            "Attachments": []
+                        }
+                    ]
                 }
             ]
         },
@@ -3136,6 +3491,361 @@
                         {
                             "Name": "SurgicalGloves_Green",
                             "Chance": 1.0,
+                            "Attachments": []
+                        }
+                    ]
+                },
+                {
+                    "Name": "AMS_FirstAidKit",
+                    "Chance": 0.1,
+                    "Attachments": [],
+                    "QuantityPercent": -1,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": [
+                        {
+                            "Name": "AMS_FirstAidKit",
+                            "Chance": 0.05,
+                            "Attachments": [
+                                {
+                                    "Name": "AMS_Bandage",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "AMS_Bandage",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "AMS_Bandage",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "AMS_Bandage",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                }
+                            ]
+                        },
+                        {
+                            "Name": "AMS_FirstAidKit",
+                            "Chance": 0.05,
+                            "Attachments": [
+                                {
+                                    "Name": "AMS_Absorbent",
+                                    "Chance": 0.5,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "AMS_Bandage",
+                                    "Chance": 0.5,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "MS_BandageTape",
+                                    "Chance": 0.1,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "AMS_AntiSept",
+                                    "Chance": 0.1,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "AMS_Ai2",
+                                    "Chance": 0.05,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "AMS_Polaris",
+                                    "Chance": 0.1,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "AMS_Aspirin",
+                                    "Chance": 0.1,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "AMS_Poter",
+                                    "Chance": 0.05,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "AMS_Vikasol",
+                                    "Chance": 0.1,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "AMS_Energy",
+                                    "Chance": 0.1,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "AMS_Narcotics",
+                                    "Chance": 0.1,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "AMS_Tourniquet",
+                                    "Chance": 0.1,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "AMS_Methadone",
+                                    "Chance": 0.1,
+                                    "Attachments": []
+                                }
+                            ]
+                        },
+                        {
+                            "Name": "AMS_FirstAidKit",
+                            "Chance": 0.05,
+                            "Attachments": [
+                                {
+                                    "Name": "AMS_Absorbent",
+                                    "Chance": 0.5,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "AMS_Bandage",
+                                    "Chance": 0.5,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "MS_BandageTape",
+                                    "Chance": 0.1,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "AMS_AntiSept",
+                                    "Chance": 0.1,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "AMS_Ai2",
+                                    "Chance": 0.05,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "AMS_Polaris",
+                                    "Chance": 0.1,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "AMS_Aspirin",
+                                    "Chance": 0.1,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "AMS_Poter",
+                                    "Chance": 0.05,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "AMS_Vikasol",
+                                    "Chance": 0.1,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "AMS_Energy",
+                                    "Chance": 0.1,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "AMS_Narcotics",
+                                    "Chance": 0.1,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "AMS_Tourniquet",
+                                    "Chance": 0.1,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "AMS_Methadone",
+                                    "Chance": 0.1,
+                                    "Attachments": []
+                                }
+                            ]
+                        },
+                        {
+                            "Name": "AMS_FirstAidKit",
+                            "Chance": 0.05,
+                            "Attachments": [
+                                {
+                                    "Name": "AMS_Absorbent",
+                                    "Chance": 0.5,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "AMS_Bandage",
+                                    "Chance": 0.5,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "MS_BandageTape",
+                                    "Chance": 0.1,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "AMS_AntiSept",
+                                    "Chance": 0.1,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "AMS_Polaris",
+                                    "Chance": 0.1,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "AMS_Aspirin",
+                                    "Chance": 0.1,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "AMS_Vikasol",
+                                    "Chance": 0.1,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "AMS_Energy",
+                                    "Chance": 0.1,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "AMS_Narcotics",
+                                    "Chance": 0.1,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "AMS_Tourniquet",
+                                    "Chance": 0.1,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "AMS_Methadone",
+                                    "Chance": 0.1,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "AMS_BandAid",
+                                    "Chance": 0.1,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "AMS_Splint",
+                                    "Chance": 0.05,
+                                    "Attachments": []
+                                }
+                            ]
+                        },
+                        {
+                            "Name": "AMS_FirstAidKit",
+                            "Chance": 0.05,
+                            "Attachments": [
+                                {
+                                    "Name": "AMS_Absorbent",
+                                    "Chance": 0.5,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "AMS_Bandage",
+                                    "Chance": 0.5,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "MS_BandageTape",
+                                    "Chance": 0.1,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "AMS_AntiSept",
+                                    "Chance": 0.1,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "AMS_Polaris",
+                                    "Chance": 0.1,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "AMS_Aspirin",
+                                    "Chance": 0.1,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "AMS_Vikasol",
+                                    "Chance": 0.1,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "AMS_Energy",
+                                    "Chance": 0.1,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "AMS_Narcotics",
+                                    "Chance": 0.1,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "AMS_Tourniquet",
+                                    "Chance": 0.1,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "AMS_Methadone",
+                                    "Chance": 0.1,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "AMS_BandAid",
+                                    "Chance": 0.1,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "AMS_WaterStraw",
+                                    "Chance": 0.1,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "AMS_POX",
+                                    "Chance": 0.1,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "AMS_Heatpack",
+                                    "Chance": 0.1,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "AMS_GoldenStar",
+                                    "Chance": 0.1,
+                                    "Attachments": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Name": "AMS_NBCPouch",
+                    "Chance": 0.01,
+                    "Attachments": [],
+                    "QuantityPercent": -1,
+                    "Max": 1,
+                    "Min": 0,
+                    "Variants": [
+                        {   
+                            "Name": "AMS_NBCPouch_Green",
+                            "Chance": 0.05,
+                            "Attachments": []
+                        },
+                        {   
+                            "Name": "AMS_NBCPouch_Black",
+                            "Chance": 0.05,
                             "Attachments": []
                         }
                     ]
@@ -6242,6 +6952,370 @@
                                     "Attachments": []
                                 }
                             ]
+                        }
+                    ]
+                },
+                {
+                    "Name": "AMS_FirstAidKit",
+                    "Chance": 0.1,
+                    "Attachments": [],
+                    "QuantityPercent": -1,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": [
+                        {
+                            "Name": "AMS_FirstAidKit",
+                            "Chance": 0.05,
+                            "Attachments": [
+                                {
+                                    "Name": "AMS_Bandage",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "AMS_Bandage",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "AMS_Bandage",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "AMS_Bandage",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                }
+                            ]
+                        },
+                        {
+                            "Name": "AMS_FirstAidKit",
+                            "Chance": 0.05,
+                            "Attachments": [
+                                {
+                                    "Name": "AMS_Absorbent",
+                                    "Chance": 0.5,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "AMS_Bandage",
+                                    "Chance": 0.5,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "MS_BandageTape",
+                                    "Chance": 0.1,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "AMS_AntiSept",
+                                    "Chance": 0.1,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "AMS_Ai2",
+                                    "Chance": 0.05,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "AMS_Polaris",
+                                    "Chance": 0.1,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "AMS_Aspirin",
+                                    "Chance": 0.1,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "AMS_Poter",
+                                    "Chance": 0.05,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "AMS_Vikasol",
+                                    "Chance": 0.1,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "AMS_Energy",
+                                    "Chance": 0.1,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "AMS_Narcotics",
+                                    "Chance": 0.1,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "AMS_Tourniquet",
+                                    "Chance": 0.1,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "AMS_Methadone",
+                                    "Chance": 0.1,
+                                    "Attachments": []
+                                }
+                            ]
+                        },
+                        {
+                            "Name": "AMS_FirstAidKit",
+                            "Chance": 0.05,
+                            "Attachments": [
+                                {
+                                    "Name": "AMS_Absorbent",
+                                    "Chance": 0.5,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "AMS_Bandage",
+                                    "Chance": 0.5,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "MS_BandageTape",
+                                    "Chance": 0.1,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "AMS_AntiSept",
+                                    "Chance": 0.1,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "AMS_Ai2",
+                                    "Chance": 0.05,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "AMS_Polaris",
+                                    "Chance": 0.1,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "AMS_Aspirin",
+                                    "Chance": 0.1,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "AMS_Poter",
+                                    "Chance": 0.05,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "AMS_Vikasol",
+                                    "Chance": 0.1,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "AMS_Energy",
+                                    "Chance": 0.1,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "AMS_Narcotics",
+                                    "Chance": 0.1,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "AMS_Tourniquet",
+                                    "Chance": 0.1,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "AMS_Methadone",
+                                    "Chance": 0.1,
+                                    "Attachments": []
+                                }
+                            ]
+                        },
+                        {
+                            "Name": "AMS_FirstAidKit",
+                            "Chance": 0.05,
+                            "Attachments": [
+                                {
+                                    "Name": "AMS_Absorbent",
+                                    "Chance": 0.5,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "AMS_Bandage",
+                                    "Chance": 0.5,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "MS_BandageTape",
+                                    "Chance": 0.1,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "AMS_AntiSept",
+                                    "Chance": 0.1,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "AMS_Polaris",
+                                    "Chance": 0.1,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "AMS_Aspirin",
+                                    "Chance": 0.1,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "AMS_Vikasol",
+                                    "Chance": 0.1,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "AMS_Energy",
+                                    "Chance": 0.1,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "AMS_Narcotics",
+                                    "Chance": 0.1,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "AMS_Tourniquet",
+                                    "Chance": 0.1,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "AMS_Methadone",
+                                    "Chance": 0.1,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "AMS_BandAid",
+                                    "Chance": 0.1,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "AMS_Splint",
+                                    "Chance": 0.05,
+                                    "Attachments": []
+                                }
+                            ]
+                        },
+                        {
+                            "Name": "AMS_FirstAidKit",
+                            "Chance": 0.05,
+                            "Attachments": [
+                                {
+                                    "Name": "AMS_Absorbent",
+                                    "Chance": 0.5,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "AMS_Bandage",
+                                    "Chance": 0.5,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "MS_BandageTape",
+                                    "Chance": 0.1,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "AMS_AntiSept",
+                                    "Chance": 0.1,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "AMS_Polaris",
+                                    "Chance": 0.1,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "AMS_Aspirin",
+                                    "Chance": 0.1,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "AMS_Vikasol",
+                                    "Chance": 0.1,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "AMS_Energy",
+                                    "Chance": 0.1,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "AMS_Narcotics",
+                                    "Chance": 0.1,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "AMS_Tourniquet",
+                                    "Chance": 0.1,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "AMS_Methadone",
+                                    "Chance": 0.1,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "AMS_BandAid",
+                                    "Chance": 0.1,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "AMS_WaterStraw",
+                                    "Chance": 0.1,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "AMS_POX",
+                                    "Chance": 0.1,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "AMS_Heatpack",
+                                    "Chance": 0.1,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "AMS_GoldenStar",
+                                    "Chance": 0.1,
+                                    "Attachments": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Name": "AMS_MFAK",
+                    "Chance": 0.01,
+                    "Attachments": [],
+                    "QuantityPercent": -1,
+                    "Max": 1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "AMS_NBCPouch",
+                    "Chance": 0.01,
+                    "Attachments": [],
+                    "QuantityPercent": -1,
+                    "Max": 1,
+                    "Min": 0,
+                    "Variants": [
+                        {   
+                            "Name": "AMS_NBCPouch_Green",
+                            "Chance": 0.05,
+                            "Attachments": []
+                        },
+                        {   
+                            "Name": "AMS_NBCPouch_Black",
+                            "Chance": 0.05,
+                            "Attachments": []
                         }
                     ]
                 }
