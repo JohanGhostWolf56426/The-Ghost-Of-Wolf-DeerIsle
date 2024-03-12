@@ -50,5 +50,8 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 		<!-- AMS -->
 		<file name="AMS_types.xml" type="types"/>
 		<file name="AMS_spawnabletypes.xml" type="spawnabletypes"/>
+		<!-- TGOW -->
+		<file name="TGOW_types.xml" type="types"/>
+		<file name="TGOW_spawnabletypes.xml" type="spawnabletypes"/>
 	</ce>
 </economycore>
