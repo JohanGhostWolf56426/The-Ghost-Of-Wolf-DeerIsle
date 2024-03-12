@@ -10,7 +10,7 @@
     "TextNotificationFrequency": 5,
     "HideHudWhileSleeping": 1,
     "OnlyShowSleepOnInventory": 0,
-    "OnlyShowSleepAbovePercent": 20,
+    "OnlyShowSleepAbovePercent": 80,
     "CONFIG_RANDOM_CHANCE": "---------------------------------------------------------------------------",
     "SleepSoundPercentChance": 0.07999999821186066,
     "YawnPercentStart": 20,

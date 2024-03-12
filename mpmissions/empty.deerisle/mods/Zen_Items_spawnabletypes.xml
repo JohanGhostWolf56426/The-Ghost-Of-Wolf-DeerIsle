@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
-<spawnabletypes>	
+<spawnabletypes>
+	<!-- Zen Virus -->	
 	<type name="Zen_Virus_Cure_Microscope">
 		<damage min="0.01" max="0.02" />
 	</type>	
@@ -7,6 +8,13 @@
 		<damage min="0.01" max="0.02" />
 	</type>
 	<type name="Syringe">
+		<damage min="0.01" max="0.02" />
+	</type>
+	<!-- Zen Sleep -->
+	<type name="ZenSleep_Syringe">
+		<damage min="0.01" max="0.02" />
+	</type>
+	<type name="ZenSleep_StimSyringe">
 		<damage min="0.01" max="0.02" />
 	</type>
 </spawnabletypes>
