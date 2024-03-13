@@ -23,7 +23,14 @@
         "Vests",
         "Holsters_And_Pouches",
         "Ghillies",
-        "Belts"
+        "Belts",
+        "Parachutes"
     ],
-    "Items": {}
+    "Items": {
+        "ADM_ParachuteBag_Fabric_Speed": 0,
+        "ADM_ParachuteBag_RWB_Speed": 0,
+        "ADM_ParachuteBag_Target_Speed": 0,
+        "ADM_ParachuteBag_ADM_Speed": 0,
+        "ADM_TactiParaBag_Camo_Speed": 0
+    }
 }
