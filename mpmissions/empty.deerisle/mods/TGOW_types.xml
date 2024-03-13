@@ -1,4 +1,177 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <types>
-    
+    <type name="ADM_ParachuteBag_Fabric">
+        <nominal>1</nominal>
+        <lifetime>28800</lifetime>
+        <restock>1800</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier5"/>
+        <value name="Tier6"/>
+        <value name="Tier7"/>
+    </type>
+    <type name="ADM_ParachuteBag_RWB">
+        <nominal>1</nominal>
+        <lifetime>28800</lifetime>
+        <restock>1800</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier5"/>
+        <value name="Tier6"/>
+        <value name="Tier7"/>
+    </type>
+    <type name="ADM_ParachuteBag_Target">
+        <nominal>1</nominal>
+        <lifetime>28800</lifetime>
+        <restock>1800</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier5"/>
+        <value name="Tier6"/>
+        <value name="Tier7"/>
+    </type>
+    <type name="ADM_ParachuteBag_Skull">
+        <nominal>1</nominal>
+        <lifetime>28800</lifetime>
+        <restock>1800</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier5"/>
+        <value name="Tier6"/>
+        <value name="Tier7"/>
+    </type>
+    <type name="ADM_ParachuteBag_ADM">
+        <nominal>1</nominal>
+        <lifetime>28800</lifetime>
+        <restock>1800</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier5"/>
+        <value name="Tier6"/>
+        <value name="Tier7"/>
+    </type>
+    <type name="ADM_ParachuteBag_Fabric_Speed">
+        <nominal>1</nominal>
+        <lifetime>28800</lifetime>
+        <restock>1800</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+    <type name="ADM_ParachuteBag_RWB_Speed">
+        <nominal>1</nominal>
+        <lifetime>28800</lifetime>
+        <restock>1800</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+    <type name="ADM_ParachuteBag_Target_Speed">
+        <nominal>1</nominal>
+        <lifetime>28800</lifetime>
+        <restock>1800</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+    <type name="ADM_ParachuteBag_Skull_Speed">
+        <nominal>1</nominal>
+        <lifetime>28800</lifetime>
+        <restock>1800</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+    <type name="ADM_ParachuteBag_ADM_Speed">
+        <nominal>1</nominal>
+        <lifetime>28800</lifetime>
+        <restock>1800</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+    <type name="ADM_TactiParaBag_Camo">
+        <nominal>1</nominal>
+        <lifetime>28800</lifetime>
+        <restock>1800</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier15"/>
+        <value name="Tier16"/>
+        <value name="Tier17"/>
+    </type>
+    <type name="ADM_TactiParaBag_Camo_Speed">
+        <nominal>1</nominal>
+        <lifetime>28800</lifetime>
+        <restock>1800</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier9"/>
+        <value name="Tier13"/>
+    </type>
 </types>
