@@ -53,5 +53,7 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 		<!-- TGOW -->
 		<file name="TGOW_types.xml" type="types"/>
 		<file name="TGOW_spawnabletypes.xml" type="spawnabletypes"/>
+		<!--Advanced Weapon Scopes-->
+		<file name="Advanced_Weapon_Scopes_types.xml" type="types"/>
 	</ce>
 </economycore>
