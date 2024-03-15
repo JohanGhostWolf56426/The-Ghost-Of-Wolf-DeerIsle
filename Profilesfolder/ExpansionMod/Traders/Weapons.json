@@ -29,7 +29,9 @@
         "Buttstocks:3",
         "Handguards:3",
         "Ammo",
-        "Machine_Guns"
+        "Machine_Guns",
+        "Snafu_Ammo",
+        "Snafu_Weapons"
     ],
     "Items": {}
 }
