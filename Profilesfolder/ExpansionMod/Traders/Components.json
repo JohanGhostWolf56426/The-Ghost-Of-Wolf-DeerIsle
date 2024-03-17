@@ -21,5 +21,11 @@
         "Electronics",
         "Lights"
     ],
-    "Items": {}
+    "Items": {
+        "A6_SecureContainer_Alpha": 0,
+        "A6_SecureContainer_Beta": 0,
+        "A6_SecureContainer_Epsilon": 0,
+        "A6_SecureContainer_Gamma": 0,
+        "A6_SecureContainer_Kappa": 0
+    }
 }
