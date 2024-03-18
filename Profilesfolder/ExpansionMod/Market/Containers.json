@@ -68,6 +68,61 @@
                 "Bear_Pink",
                 "Bear_White" 
             ]
+        },
+        {
+            "ClassName": "A6_SecureContainer_Alpha",
+            "MaxPriceThreshold": 100000,
+            "MinPriceThreshold": 100000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "A6_SecureContainer_Beta",
+            "MaxPriceThreshold": 200000,
+            "MinPriceThreshold": 200000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "A6_SecureContainer_Epsilon",
+            "MaxPriceThreshold": 400000,
+            "MinPriceThreshold": 400000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "A6_SecureContainer_Gamma",
+            "MaxPriceThreshold": 800000,
+            "MinPriceThreshold": 800000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "A6_SecureContainer_Kappa",
+            "MaxPriceThreshold": 1600000,
+            "MinPriceThreshold": 1600000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
         }
     ]
 }
