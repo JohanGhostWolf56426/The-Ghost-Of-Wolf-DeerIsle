@@ -1,0 +1,9 @@
+Rework DeerIsle, Expansion and Snafu Ammo Stack/Size and Mag Size
+Rework Z_Predator-PredatorClaw Healt and Item drop
+Rework Z_Predator-Preadtor_Dog Healt
+Add Missing Snafu Trader Items
+Adjust Snafu Loot Spawns
+Add Snafu to Airdrop
+Add Expansion CodeLock to Trader:Sell Only
+Remove redundent Snafu Items.
+Add DeerIsle P90 To trader:Sell Only

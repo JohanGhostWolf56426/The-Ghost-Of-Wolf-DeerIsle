@@ -1407,7 +1407,7 @@
                     "Min": 0,
                     "Variants": [
                         {
-                            "Name": "FNX45",
+                            "Name": "Expansion_M9",
                             "Chance": 0.10000000149011612,
                             "Attachments": [
                                 {
@@ -1423,7 +1423,7 @@
                             ]
                         },
                         {
-                            "Name": "FNX45",
+                            "Name": "Expansion_M9",
                             "Chance": 0.15000000596046449,
                             "Attachments": [
                                 {
@@ -1434,7 +1434,7 @@
                             ]
                         },
                         {
-                            "Name": "FNX45",
+                            "Name": "Expansion_M9",
                             "Chance": 0.5,
                             "Attachments": []
                         }
@@ -1623,15 +1623,6 @@
                 {
                     "Name": "MetalWire",
                     "Chance": 0.20000000298023225,
-                    "Attachments": [],
-                    "QuantityPercent": -1,
-                    "Max": -1,
-                    "Min": 0,
-                    "Variants": []
-                },
-                {
-                    "Name": "ExpansionCodeLock",
-                    "Chance": 0.10000000149011612,
                     "Attachments": [],
                     "QuantityPercent": -1,
                     "Max": -1,
