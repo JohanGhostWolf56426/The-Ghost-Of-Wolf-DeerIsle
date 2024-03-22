@@ -5,7 +5,7 @@
     "Color": "FBFCFEFF",
     "InitStockPercent": 75.0,
     "Items": [
-	                 {
+	    {
             "ClassName": "SA58_FGrip",
             "MaxPriceThreshold": 500,
             "MinPriceThreshold": 400,
@@ -15,12 +15,12 @@
             "SpawnAttachments": [],
             "Variants": []
         },
-		        {
+		{
             "ClassName": "SNAFUAR15_AFG",
             "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 400,
+            "MinPriceThreshold": 500,
             "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
+            "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
             "SpawnAttachments": [],
             "Variants": []
@@ -35,7 +35,7 @@
             "SpawnAttachments": [],
             "Variants": []
         },
-		        {
+		{
             "ClassName": "SNAFUScar_AFG_BK",
             "MaxPriceThreshold": 500,
             "MinPriceThreshold": 400,
@@ -55,7 +55,7 @@
             "SpawnAttachments": [],
             "Variants": []
         },
-		        {
+	    {
             "ClassName": "SNAFU_AFG_02_Black",
             "MaxPriceThreshold": 500,
             "MinPriceThreshold": 400,
@@ -75,7 +75,7 @@
             "SpawnAttachments": [],
             "Variants": []
         },
-		        {
+		{
             "ClassName": "SNAFU_FGKAC_Grip",
             "MaxPriceThreshold": 500,
             "MinPriceThreshold": 400,

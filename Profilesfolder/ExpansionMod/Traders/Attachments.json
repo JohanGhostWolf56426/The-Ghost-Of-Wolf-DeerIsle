@@ -27,5 +27,8 @@
         "Snafu_Stocks",
         "Snafu_Suppressors"
     ],
-    "Items": {}
+    "Items": {
+        "SNAFUAR15_AFG":2,
+        "SNAFUAR15_SPR_30RND_Mag":2
+    }
 }

@@ -231,9 +231,9 @@
 		        {
             "ClassName": "SNAFUAR15_SPR_30RND_Mag",
             "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 400,
+            "MinPriceThreshold": 500,
             "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
+            "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
             "SpawnAttachments": [],
             "Variants": []
@@ -568,7 +568,7 @@
             "SpawnAttachments": [],
             "Variants": []
         },
-		        {
+		{
             "ClassName": "GCGN_Vityaz_30Rnd",
             "MaxPriceThreshold": 500,
             "MinPriceThreshold": 400,
