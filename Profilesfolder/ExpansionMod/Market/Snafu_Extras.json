@@ -18,9 +18,9 @@
 		{
             "ClassName": "GCGN_M1Garand_FlashHider",
             "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 400,
+            "MinPriceThreshold": 500,
             "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
+            "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
             "SpawnAttachments": [],
             "Variants": []
@@ -28,9 +28,9 @@
         {
             "ClassName": "GCGN_M1Garand_Bayonet",
             "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 400,
+            "MinPriceThreshold": 500,
             "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
+            "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
             "SpawnAttachments": [],
             "Variants": []

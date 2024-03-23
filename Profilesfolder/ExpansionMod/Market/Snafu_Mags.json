@@ -8,9 +8,9 @@
 		{
             "ClassName": "GCGN_M110_Mag",
             "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 400,
+            "MinPriceThreshold": 500,
             "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
+            "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
             "SpawnAttachments": [],
             "Variants": []
@@ -128,12 +128,12 @@
             "SpawnAttachments": [],
             "Variants": []
         },
-		        {
+		{
             "ClassName": "GCGN_HK416_Mag",
             "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 400,
+            "MinPriceThreshold": 500,
             "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
+            "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
             "SpawnAttachments": [],
             "Variants": []
@@ -368,12 +368,12 @@
             "SpawnAttachments": [],
             "Variants": []
         },
-		        {
+		{
             "ClassName": "AA12_Mag",
             "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 400,
+            "MinPriceThreshold": 500,
             "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
+            "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
             "SpawnAttachments": [],
             "Variants": []

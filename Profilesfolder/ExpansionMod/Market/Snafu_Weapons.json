@@ -311,9 +311,9 @@
                 {
                     "ClassName": "GCGN_HK416",
                     "MaxPriceThreshold": 20000,
-                    "MinPriceThreshold": 15000,
+                    "MinPriceThreshold": 20000,
                     "SellPricePercent": -1,
-                    "MaxStockThreshold": 100,
+                    "MaxStockThreshold": 1,
                     "MinStockThreshold": 1,
                     "SpawnAttachments": [],
                     "Variants": []
@@ -328,13 +328,12 @@
                     "SpawnAttachments": [],
                     "Variants": []
                 },
-        
                 {
                     "ClassName": "ACR_Gun",
                     "MaxPriceThreshold": 20000,
-                    "MinPriceThreshold": 15000,
+                    "MinPriceThreshold": 20000,
                     "SellPricePercent": -1,
-                    "MaxStockThreshold": 100,
+                    "MaxStockThreshold": 1,
                     "MinStockThreshold": 1,
                     "SpawnAttachments": [],
                     "Variants": []
@@ -393,9 +392,9 @@
                 {
                     "ClassName": "GCGN_M110_Black",
                     "MaxPriceThreshold": 20000,
-                    "MinPriceThreshold": 15000,
+                    "MinPriceThreshold": 20000,
                     "SellPricePercent": -1,
-                    "MaxStockThreshold": 100,
+                    "MaxStockThreshold": 1,
                     "MinStockThreshold": 1,
                     "SpawnAttachments": [],
                     "Variants": [
@@ -521,9 +520,9 @@
                 {
                     "ClassName": "GCGN_M82_Barret",
                     "MaxPriceThreshold": 20000,
-                    "MinPriceThreshold": 15000,
+                    "MinPriceThreshold": 20000,
                     "SellPricePercent": -1,
-                    "MaxStockThreshold": 100,
+                    "MaxStockThreshold": 1,
                     "MinStockThreshold": 1,
                     "SpawnAttachments": [],
                     "Variants": []
@@ -612,9 +611,9 @@
                 {
                     "ClassName": "AA12_Gun",
                     "MaxPriceThreshold": 20000,
-                    "MinPriceThreshold": 15000,
+                    "MinPriceThreshold": 20000,
                     "SellPricePercent": -1,
-                    "MaxStockThreshold": 100,
+                    "MaxStockThreshold": 1,
                     "MinStockThreshold": 1,
                     "SpawnAttachments": [],
                     "Variants": []

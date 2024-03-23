@@ -5,12 +5,12 @@
     "Color": "FBFCFEFF",
     "InitStockPercent": 75.0,
     "Items": [
-	              		{
+	    {
             "ClassName": "GCGN_Ammo_3006",
             "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 400,
+            "MinPriceThreshold": 500,
             "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
+            "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
             "SpawnAttachments": [],
             "Variants": []
@@ -25,12 +25,12 @@
             "SpawnAttachments": [],
             "Variants": []
         },
-		        {
+		{
             "ClassName": "GCGN_Ammo_762x51",
             "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 400,
+            "MinPriceThreshold": 500,
             "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
+            "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
             "SpawnAttachments": [],
             "Variants": []
@@ -124,12 +124,12 @@
             "SpawnAttachments": [],
             "Variants": []
         },
-		        {
+		{
             "ClassName": "GCGN_Ammo_50Cal",
             "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 400,
+            "MinPriceThreshold": 500,
             "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
+            "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
             "SpawnAttachments": [],
             "Variants": []
@@ -144,12 +144,12 @@
             "SpawnAttachments": [],
             "Variants": []
         },
-		        {
+		{
             "ClassName": "GCGN_Ammo_408Chey",
             "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 400,
+            "MinPriceThreshold": 500,
             "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
+            "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
             "SpawnAttachments": [],
             "Variants": []

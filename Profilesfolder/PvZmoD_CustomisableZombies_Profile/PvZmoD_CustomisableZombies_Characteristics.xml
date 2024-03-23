@@ -2334,7 +2334,7 @@
  		<Can_Throw_Stones			Day="0"		Night="0"/>
     </type>
 	<type name="PredatorClaw">			<!-- ! KEEP THIS CLASS AFTER DARK HORDE ZOMBIES ! -->
-        <Health_Points				Day="7500" 	Night="7500"/>	
+        <Health_Points				Day="5000" 	Night="5000"/>	
         <Resistance_to_Bullets		Day="1.0" 	Night="1.0"/> 	
         <Resistance_to_Melees		Day="1.0" 	Night="1.0"/>
         <Resistance_to_HeavyAttack	Day="0.5" 	Night="0.5"/> 	
@@ -2342,7 +2342,7 @@
         <Resistance_to_Explosions	Day="0.01" 	Night="0.01"/>	
         <Resistance_to_HeadShots	Day="0.4" 	Night="0.4"/>
 		<Resist_to_Melee_HeadShots	Day="0.6" 	Night="0.6"/>
-		<Special_HeadShot_Weapons	Day="1"		Night="1"/>
+		<Special_HeadShot_Weapons	Day="0"		Night="0"/>
         <Move_Speed_Min				Day="0.0" 	Night="0.0"/>
 		<Move_Speed_Max				Day="3.0" 	Night="3.0"/>	
 		<Move_Speed_Adjust_Max		Day="0.0" 	Night="0.0"/>
