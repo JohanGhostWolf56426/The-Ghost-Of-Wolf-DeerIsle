@@ -1,10 +1,10 @@
 {
-            "m_Version": 8,
-            "DisplayName": "Snafu_Mags",
-            "Icon": "Deliver",
-            "Color": "FBFCFEFF",
-            "InitStockPercent": 75.0,
-            "Items": [
+    "m_Version": 8,
+    "DisplayName": "Snafu_Mags",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "InitStockPercent": 75.0,
+    "Items": [
 		{
             "ClassName": "GCGN_M110_Mag",
             "MaxPriceThreshold": 500,
@@ -18,9 +18,9 @@
         {
             "ClassName": "SNAFU_RPK16_Black_Mag",
             "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 400,
+            "MinPriceThreshold": 500,
             "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
+            "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
             "SpawnAttachments": [],
             "Variants": [
@@ -28,12 +28,12 @@
                    "SNAFU_RPK16_Tan_Mag"
 			]
         },
-		        {
+		{
             "ClassName": "SNAFU_SR25_Mag",
             "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 400,
+            "MinPriceThreshold": 500,
             "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
+            "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
             "SpawnAttachments": [],
             "Variants": []
@@ -41,9 +41,9 @@
         {
             "ClassName": "SNAFU_KAC_Mag",
             "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 400,
+            "MinPriceThreshold": 500,
             "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
+            "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
             "SpawnAttachments": [],
             "Variants": []
@@ -51,9 +51,9 @@
 		        {
             "ClassName": "SNAFU_Saint_Mag",
             "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 400,
+            "MinPriceThreshold": 500,
             "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
+            "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
             "SpawnAttachments": [],
             "Variants": []
@@ -61,9 +61,9 @@
         {
             "ClassName": "SR3_Vikhr_Mag",
             "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 400,
+            "MinPriceThreshold": 500,
             "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
+            "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
             "SpawnAttachments": [],
             "Variants": []
@@ -111,9 +111,9 @@
 		        {
             "ClassName": "SNAFU_PL14HQP_Mag",
             "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 400,
+            "MinPriceThreshold": 500,
             "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
+            "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
             "SpawnAttachments": [],
             "Variants": []
@@ -151,9 +151,9 @@
 		        {
             "ClassName": "SNAFU_PDW_9mm_Mag",
             "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 400,
+            "MinPriceThreshold": 500,
             "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
+            "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
             "SpawnAttachments": [],
             "Variants": []
@@ -161,9 +161,9 @@
         {
             "ClassName": "SNAFU_PDW_45ACP_Mag",
             "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 400,
+            "MinPriceThreshold": 500,
             "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
+            "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
             "SpawnAttachments": [],
             "Variants": []
@@ -221,9 +221,9 @@
         {
             "ClassName": "SNAFUM24_Mag",
             "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 400,
+            "MinPriceThreshold": 500,
             "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
+            "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
             "SpawnAttachments": [],
             "Variants": []
@@ -241,9 +241,9 @@
         {
             "ClassName": "SNAFUAR15_SPR_40RND_Mag",
             "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 400,
+            "MinPriceThreshold": 500,
             "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
+            "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
             "SpawnAttachments": [],
             "Variants": []
@@ -251,9 +251,9 @@
 		        {
             "ClassName": "SNAFUAR15_SPR_60RND_Mag",
             "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 400,
+            "MinPriceThreshold": 500,
             "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
+            "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
             "SpawnAttachments": [],
             "Variants": []
@@ -261,9 +261,9 @@
         {
             "ClassName": "SNAFUAR15_SPR_100RND_Mag",
             "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 400,
+            "MinPriceThreshold": 500,
             "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
+            "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
             "SpawnAttachments": [],
             "Variants": []
@@ -271,9 +271,9 @@
 		        {
             "ClassName": "SNHK417_Mag",
             "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 400,
+            "MinPriceThreshold": 500,
             "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
+            "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
             "SpawnAttachments": [],
             "Variants": []
@@ -304,9 +304,9 @@
         {
             "ClassName": "Tec9_Mag",
             "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 400,
+            "MinPriceThreshold": 500,
             "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
+            "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
             "SpawnAttachments": [],
             "Variants": []
@@ -314,9 +314,9 @@
 		        {
             "ClassName": "VR80_Magazine_5rd",
             "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 400,
+            "MinPriceThreshold": 500,
             "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
+            "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
             "SpawnAttachments": [],
             "Variants": []
@@ -324,9 +324,9 @@
         {
             "ClassName": "SNAFUVECTOR_9mm_Mag",
             "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 400,
+            "MinPriceThreshold": 500,
             "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
+            "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
             "SpawnAttachments": [],
             "Variants": []
@@ -334,9 +334,9 @@
 		        {
             "ClassName": "SNAFUVECTOR_45acp_Mag",
             "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 400,
+            "MinPriceThreshold": 500,
             "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
+            "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
             "SpawnAttachments": [],
             "Variants": []
@@ -344,9 +344,9 @@
         {
             "ClassName": "VR80_Magazine_10rd",
             "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 400,
+            "MinPriceThreshold": 500,
             "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
+            "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
             "SpawnAttachments": [],
             "Variants": []
@@ -374,9 +374,9 @@
 		        {
             "ClassName": "SNAFU_M1918A2_Mag",
             "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 400,
+            "MinPriceThreshold": 500,
             "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
+            "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
             "SpawnAttachments": [],
             "Variants": []
@@ -384,9 +384,9 @@
         {
             "ClassName": "SNAFU_U100_Mag",
             "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 400,
+            "MinPriceThreshold": 500,
             "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
+            "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
             "SpawnAttachments": [],
             "Variants": []
@@ -394,9 +394,9 @@
 		        {
             "ClassName": "SNAFU_M14_Mag",
             "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 400,
+            "MinPriceThreshold": 500,
             "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
+            "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
             "SpawnAttachments": [],
             "Variants": []
@@ -404,9 +404,9 @@
         {
             "ClassName": "SNAFU_M76_Mag",
             "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 400,
+            "MinPriceThreshold": 500,
             "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
+            "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
             "SpawnAttachments": [],
             "Variants": []
@@ -414,9 +414,9 @@
 		        {
             "ClassName": "SNAFU_SKS_10Rnd_Mag",
             "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 400,
+            "MinPriceThreshold": 500,
             "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
+            "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
             "SpawnAttachments": [],
             "Variants": []
@@ -424,9 +424,9 @@
         {
             "ClassName": "SNAFU_SKS_30Rnd_Mag",
             "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 400,
+            "MinPriceThreshold": 500,
             "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
+            "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
             "SpawnAttachments": [],
             "Variants": []
@@ -434,9 +434,9 @@
 		        {
             "ClassName": "SNAFU_FRF2_Mag",
             "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 400,
+            "MinPriceThreshold": 500,
             "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
+            "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
             "SpawnAttachments": [],
             "Variants": []
@@ -444,9 +444,9 @@
         {
             "ClassName": "SNAFUKivaari_10rdMag",
             "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 400,
+            "MinPriceThreshold": 500,
             "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
+            "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
             "SpawnAttachments": [],
             "Variants": []
@@ -454,9 +454,9 @@
 		        {
             "ClassName": "SNAFUKivaari_25rdMag",
             "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 400,
+            "MinPriceThreshold": 500,
             "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
+            "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
             "SpawnAttachments": [],
             "Variants": []
@@ -484,9 +484,9 @@
         {
             "ClassName": "SNAFU_AWM_Mag",
             "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 400,
+            "MinPriceThreshold": 500,
             "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
+            "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
             "SpawnAttachments": [],
             "Variants": []
@@ -494,9 +494,9 @@
 		        {
             "ClassName": "SNAFUAX50_Mag",
             "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 400,
+            "MinPriceThreshold": 500,
             "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
+            "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
             "SpawnAttachments": [],
             "Variants": []
@@ -504,9 +504,9 @@
         {
             "ClassName": "SNAFUM98B_Mag",
             "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 400,
+            "MinPriceThreshold": 500,
             "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
+            "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
             "SpawnAttachments": [],
             "Variants": []
@@ -514,9 +514,9 @@
 		        {
             "ClassName": "SNAFUT5000_Mag",
             "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 400,
+            "MinPriceThreshold": 500,
             "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
+            "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
             "SpawnAttachments": [],
             "Variants": []
@@ -524,9 +524,9 @@
         {
             "ClassName": "SNAFUM24_Mag",
             "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 400,
+            "MinPriceThreshold": 500,
             "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
+            "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
             "SpawnAttachments": [],
             "Variants": []
@@ -534,9 +534,9 @@
 		        {
             "ClassName": "SNAFURSASS_Mag",
             "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 400,
+            "MinPriceThreshold": 500,
             "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
+            "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
             "SpawnAttachments": [],
             "Variants": []
@@ -564,9 +564,9 @@
         {
             "ClassName": "Snafu_ScarH_25RND_Mag_Tan",
             "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 400,
+            "MinPriceThreshold": 500,
             "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
+            "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
             "SpawnAttachments": [],
             "Variants": [
@@ -579,9 +579,9 @@
 		        {
             "ClassName": "SNAFU_ScarH_100RND_Mag_Tan",
             "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 400,
+            "MinPriceThreshold": 500,
             "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
+            "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
             "SpawnAttachments": [],
             "Variants": [
@@ -604,9 +604,9 @@
 		        {
             "ClassName": "Snafu_pkp_250RND_Mag",
             "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 400,
+            "MinPriceThreshold": 500,
             "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
+            "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
             "SpawnAttachments": [],
             "Variants": []
@@ -614,9 +614,9 @@
         {
             "ClassName": "SNAFU_Mar10_15rnd_Mag",
             "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 400,
+            "MinPriceThreshold": 500,
             "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
+            "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
             "SpawnAttachments": [],
             "Variants": []
@@ -624,9 +624,9 @@
 		        {
             "ClassName": "SNAFU_MP9_30rnd_Mag",
             "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 400,
+            "MinPriceThreshold": 500,
             "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
+            "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
             "SpawnAttachments": [],
             "Variants": []
@@ -634,9 +634,9 @@
         {
             "ClassName": "SNAFU_Fort12_12rnd_Mag",
             "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 400,
+            "MinPriceThreshold": 500,
             "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
+            "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
             "SpawnAttachments": [],
             "Variants": []
@@ -644,9 +644,9 @@
 	    {
             "ClassName": "SNAFU_MPX_30rnd_Mag",
             "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 400,
+            "MinPriceThreshold": 500,
             "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
+            "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
             "SpawnAttachments": [],
             "Variants": []
@@ -654,9 +654,9 @@
         {
             "ClassName": "SNAFU_AS50_Mag",
             "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 400,
+            "MinPriceThreshold": 500,
             "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
+            "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
             "SpawnAttachments": [],
             "Variants": []
@@ -674,9 +674,9 @@
         {
             "ClassName": "SNAFUAPS_20rdMag",
             "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 400,
+            "MinPriceThreshold": 500,
             "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
+            "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
             "SpawnAttachments": [],
             "Variants": []
@@ -684,9 +684,9 @@
 		        {
             "ClassName": "SNAFUASh12_20rdMag",
             "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 400,
+            "MinPriceThreshold": 500,
             "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
+            "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
             "SpawnAttachments": [],
             "Variants": []
@@ -694,9 +694,9 @@
         {
             "ClassName": "SNAFUGM6Lynx_5rdMag",
             "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 400,
+            "MinPriceThreshold": 500,
             "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
+            "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
             "SpawnAttachments": [],
             "Variants": []
@@ -704,9 +704,9 @@
 		        {
             "ClassName": "SNAFUHoneyBadger_30rdMag_Black",
             "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 400,
+            "MinPriceThreshold": 500,
             "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
+            "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
             "SpawnAttachments": [],
             "Variants": [
@@ -716,9 +716,9 @@
         {
             "ClassName": "SNAFUKH9_30rdMag",
             "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 400,
+            "MinPriceThreshold": 500,
             "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
+            "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
             "SpawnAttachments": [],
             "Variants": []
@@ -726,9 +726,9 @@
 		        {
             "ClassName": "SNAFUM1A_20rdMag",
             "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 400,
+            "MinPriceThreshold": 500,
             "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
+            "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
             "SpawnAttachments": [],
             "Variants": []
@@ -736,9 +736,9 @@
         {
             "ClassName": "SNAFUM96_5rdMag",
             "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 400,
+            "MinPriceThreshold": 500,
             "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
+            "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
             "SpawnAttachments": [],
             "Variants": []
@@ -746,9 +746,9 @@
 		        {
             "ClassName": "SNAFUMk12_20rdMag",
             "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 400,
+            "MinPriceThreshold": 500,
             "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
+            "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
             "SpawnAttachments": [],
             "Variants": []
@@ -756,9 +756,9 @@
         {
             "ClassName": "SNAFUP90_50rdMag",
             "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 400,
+            "MinPriceThreshold": 500,
             "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
+            "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
             "SpawnAttachments": [],
             "Variants": []
@@ -766,9 +766,9 @@
 		        {
             "ClassName": "SNAFUSRSA2_10rdMag",
             "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 400,
+            "MinPriceThreshold": 500,
             "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
+            "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
             "SpawnAttachments": [],
             "Variants": []
@@ -776,9 +776,9 @@
         {
             "ClassName": "SNAFUTac21_5rdMag",
             "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 400,
+            "MinPriceThreshold": 500,
             "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
+            "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
             "SpawnAttachments": [],
             "Variants": []
@@ -786,9 +786,9 @@
 		        {
             "ClassName": "SNAFUUzi_32rdMag",
             "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 400,
+            "MinPriceThreshold": 500,
             "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
+            "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
             "SpawnAttachments": [],
             "Variants": []
@@ -796,9 +796,9 @@
         {
             "ClassName": "SNAFUUzi_72rdMag",
             "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 400,
+            "MinPriceThreshold": 500,
             "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
+            "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
             "SpawnAttachments": [],
             "Variants": []
@@ -806,9 +806,9 @@
 		        {
             "ClassName": "SNAFUAUG_30rdMag",
             "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 400,
+            "MinPriceThreshold": 500,
             "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
+            "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
             "SpawnAttachments": [],
             "Variants": []
@@ -816,9 +816,9 @@
         {
             "ClassName": "SNAFUDVL10M2_5rdMag",
             "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 400,
+            "MinPriceThreshold": 500,
             "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
+            "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
             "SpawnAttachments": [],
             "Variants": []
@@ -826,9 +826,9 @@
 		        {
             "ClassName": "SNAFUPPSKN_30rdMag",
             "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 400,
+            "MinPriceThreshold": 500,
             "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
+            "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
             "SpawnAttachments": [],
             "Variants": []
@@ -836,9 +836,9 @@
         {
             "ClassName": "SNAFUThompsonMk2_30rdMag",
             "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 400,
+            "MinPriceThreshold": 500,
             "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
+            "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
             "SpawnAttachments": [],
             "Variants": []
@@ -846,9 +846,9 @@
 		        {
             "ClassName": "SNAFUAlligator_5rdMag",
             "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 400,
+            "MinPriceThreshold": 500,
             "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
+            "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
             "SpawnAttachments": [],
             "Variants": []
@@ -856,9 +856,9 @@
         {
             "ClassName": "SNAFUGevar_10rdMag",
             "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 400,
+            "MinPriceThreshold": 500,
             "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
+            "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
             "SpawnAttachments": [],
             "Variants": []
@@ -866,9 +866,9 @@
 		        {
             "ClassName": "SNAFU_Mar10_15rnd_Mag",
             "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 400,
+            "MinPriceThreshold": 500,
             "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
+            "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
             "SpawnAttachments": [],
             "Variants": []
@@ -876,9 +876,9 @@
         {
             "ClassName": "SNAFU_PMAG556_Black",
             "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 400,
+            "MinPriceThreshold": 500,
             "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
+            "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
             "SpawnAttachments": [],
             "Variants": [
@@ -892,9 +892,9 @@
 		        {
             "ClassName": "SNAFU_CMAG30556_Black",
             "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 400,
+            "MinPriceThreshold": 500,
             "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
+            "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
             "SpawnAttachments": [],
             "Variants": [
@@ -908,9 +908,9 @@
         {
             "ClassName": "SNAFU_CMAG30300_Black",
             "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 400,
+            "MinPriceThreshold": 500,
             "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
+            "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
             "SpawnAttachments": [],
             "Variants": [
@@ -924,9 +924,9 @@
 		        {
             "ClassName": "SNAFU_BMAG300_Tan",
             "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 400,
+            "MinPriceThreshold": 500,
             "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
+            "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
             "SpawnAttachments": [],
             "Variants": [
@@ -936,9 +936,9 @@
         {
             "ClassName": "SNAFUPPSh_71rdMag",
             "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 400,
+            "MinPriceThreshold": 500,
             "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
+            "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
             "SpawnAttachments": [],
             "Variants": []
@@ -946,9 +946,9 @@
 		        {
             "ClassName": "SNAFURPD_100rdMag",
             "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 400,
+            "MinPriceThreshold": 500,
             "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
+            "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
             "SpawnAttachments": [],
             "Variants": []
@@ -956,9 +956,9 @@
         {
             "ClassName": "SNAFUSten_32rdMag",
             "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 400,
+            "MinPriceThreshold": 500,
             "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
+            "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
             "SpawnAttachments": [],
             "Variants": []
