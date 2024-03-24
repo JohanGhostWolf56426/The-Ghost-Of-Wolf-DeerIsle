@@ -112,20 +112,19 @@
                 {
                     "ClassName": "SN_Glock19",
                     "MaxPriceThreshold": 20000,
-                    "MinPriceThreshold": 15000,
+                    "MinPriceThreshold": 20000,
                     "SellPricePercent": -1,
-                    "MaxStockThreshold": 100,
+                    "MaxStockThreshold": 1,
                     "MinStockThreshold": 1,
                     "SpawnAttachments": [],
                     "Variants": []
                 },
-        
                 {
                     "ClassName": "SN_M870",
                     "MaxPriceThreshold": 20000,
-                    "MinPriceThreshold": 15000,
+                    "MinPriceThreshold": 20000,
                     "SellPricePercent": -1,
-                    "MaxStockThreshold": 100,
+                    "MaxStockThreshold": 1,
                     "MinStockThreshold": 1,
                     "SpawnAttachments": [],
                     "Variants": []
@@ -133,9 +132,9 @@
                 {
                     "ClassName": "SN_Mp443",
                     "MaxPriceThreshold": 20000,
-                    "MinPriceThreshold": 15000,
+                    "MinPriceThreshold": 20000,
                     "SellPricePercent": -1,
-                    "MaxStockThreshold": 100,
+                    "MaxStockThreshold": 1,
                     "MinStockThreshold": 1,
                     "SpawnAttachments": [],
                     "Variants": []
@@ -143,9 +142,9 @@
                 {
                     "ClassName": "SN_M9",
                     "MaxPriceThreshold": 20000,
-                    "MinPriceThreshold": 15000,
+                    "MinPriceThreshold": 20000,
                     "SellPricePercent": -1,
-                    "MaxStockThreshold": 100,
+                    "MaxStockThreshold": 1,
                     "MinStockThreshold": 1,
                     "SpawnAttachments": [],
                     "Variants": []
@@ -153,9 +152,9 @@
                 {
                     "ClassName": "SN_USP",
                     "MaxPriceThreshold": 20000,
-                    "MinPriceThreshold": 15000,
+                    "MinPriceThreshold": 20000,
                     "SellPricePercent": -1,
-                    "MaxStockThreshold": 100,
+                    "MaxStockThreshold": 1,
                     "MinStockThreshold": 1,
                     "SpawnAttachments": [],
                     "Variants": []
@@ -194,9 +193,9 @@
                 {
                     "ClassName": "GCGN_MP7",
                     "MaxPriceThreshold": 20000,
-                    "MinPriceThreshold": 15000,
+                    "MinPriceThreshold": 20000,
                     "SellPricePercent": -1,
-                    "MaxStockThreshold": 100,
+                    "MaxStockThreshold": 1,
                     "MinStockThreshold": 1,
                     "SpawnAttachments": [],
                     "Variants": []
@@ -204,9 +203,9 @@
                 {
                     "ClassName": "GCGN_VEPR",
                     "MaxPriceThreshold": 20000,
-                    "MinPriceThreshold": 15000,
+                    "MinPriceThreshold": 20000,
                     "SellPricePercent": -1,
-                    "MaxStockThreshold": 100,
+                    "MaxStockThreshold": 1,
                     "MinStockThreshold": 1,
                     "SpawnAttachments": [],
                     "Variants": []
@@ -214,9 +213,9 @@
                 {
                     "ClassName": "GCGN_Vityaz",
                     "MaxPriceThreshold": 20000,
-                    "MinPriceThreshold": 15000,
+                    "MinPriceThreshold": 20000,
                     "SellPricePercent": -1,
-                    "MaxStockThreshold": 100,
+                    "MaxStockThreshold": 1,
                     "MinStockThreshold": 1,
                     "SpawnAttachments": [],
                     "Variants": []
@@ -237,9 +236,9 @@
                 {
                     "ClassName": "SNAFU_AK12A",
                     "MaxPriceThreshold": 20000,
-                    "MinPriceThreshold": 15000,
+                    "MinPriceThreshold": 20000,
                     "SellPricePercent": -1,
-                    "MaxStockThreshold": 100,
+                    "MaxStockThreshold": 1,
                     "MinStockThreshold": 1,
                     "SpawnAttachments": [],
                     "Variants": []
@@ -247,9 +246,9 @@
                 {
                     "ClassName": "SNAFU_AK103A",
                     "MaxPriceThreshold": 20000,
-                    "MinPriceThreshold": 15000,
+                    "MinPriceThreshold": 20000,
                     "SellPricePercent": -1,
-                    "MaxStockThreshold": 100,
+                    "MaxStockThreshold": 1,
                     "MinStockThreshold": 1,
                     "SpawnAttachments": [],
                     "Variants": []
@@ -270,20 +269,19 @@
                 {
                     "ClassName": "SNAFU_AEK545_Gun",
                     "MaxPriceThreshold": 20000,
-                    "MinPriceThreshold": 15000,
+                    "MinPriceThreshold": 20000,
                     "SellPricePercent": -1,
-                    "MaxStockThreshold": 100,
+                    "MaxStockThreshold": 1,
                     "MinStockThreshold": 1,
                     "SpawnAttachments": [],
                     "Variants": []
                 },
-        
                 {
                     "ClassName": "GCGN_M4A1",
                     "MaxPriceThreshold": 20000,
-                    "MinPriceThreshold": 15000,
+                    "MinPriceThreshold": 20000,
                     "SellPricePercent": -1,
-                    "MaxStockThreshold": 100,
+                    "MaxStockThreshold": 1,
                     "MinStockThreshold": 1,
                     "SpawnAttachments": [],
                     "Variants": []
@@ -321,9 +319,9 @@
                 {
                     "ClassName": "SN_Auto_Shotgun",
                     "MaxPriceThreshold": 20000,
-                    "MinPriceThreshold": 15000,
+                    "MinPriceThreshold": 20000,
                     "SellPricePercent": -1,
-                    "MaxStockThreshold": 100,
+                    "MaxStockThreshold": 1,
                     "MinStockThreshold": 1,
                     "SpawnAttachments": [],
                     "Variants": []
@@ -341,9 +339,9 @@
                 {
                     "ClassName": "M4_6933_Gun",
                     "MaxPriceThreshold": 20000,
-                    "MinPriceThreshold": 15000,
+                    "MinPriceThreshold": 20000,
                     "SellPricePercent": -1,
-                    "MaxStockThreshold": 100,
+                    "MaxStockThreshold": 1,
                     "MinStockThreshold": 1,
                     "SpawnAttachments": [],
                     "Variants": []
@@ -371,20 +369,19 @@
                 {
                     "ClassName": "IA2_Gun",
                     "MaxPriceThreshold": 20000,
-                    "MinPriceThreshold": 15000,
+                    "MinPriceThreshold": 20000,
                     "SellPricePercent": -1,
-                    "MaxStockThreshold": 100,
+                    "MaxStockThreshold": 1,
                     "MinStockThreshold": 1,
                     "SpawnAttachments": [],
                     "Variants": []
                 },
-        
                 {
                     "ClassName": "SG550_Gun",
                     "MaxPriceThreshold": 20000,
-                    "MinPriceThreshold": 15000,
+                    "MinPriceThreshold": 20000,
                     "SellPricePercent": -1,
-                    "MaxStockThreshold": 100,
+                    "MaxStockThreshold": 1,
                     "MinStockThreshold": 1,
                     "SpawnAttachments": [],
                     "Variants": []
@@ -459,9 +456,9 @@
                 {
                     "ClassName": "GCGN_M700",
                     "MaxPriceThreshold": 20000,
-                    "MinPriceThreshold": 15000,
+                    "MinPriceThreshold": 20000,
                     "SellPricePercent": -1,
-                    "MaxStockThreshold": 100,
+                    "MaxStockThreshold": 1,
                     "MinStockThreshold": 1,
                     "SpawnAttachments": [],
                     "Variants": []
@@ -479,9 +476,9 @@
                 {
                     "ClassName": "MK18_Gun",
                     "MaxPriceThreshold": 20000,
-                    "MinPriceThreshold": 15000,
+                    "MinPriceThreshold": 20000,
                     "SellPricePercent": -1,
-                    "MaxStockThreshold": 100,
+                    "MaxStockThreshold": 1,
                     "MinStockThreshold": 1,
                     "SpawnAttachments": [],
                     "Variants": []
@@ -510,9 +507,9 @@
                 {
                     "ClassName": "SCAR_Gun",
                     "MaxPriceThreshold": 20000,
-                    "MinPriceThreshold": 15000,
+                    "MinPriceThreshold": 20000,
                     "SellPricePercent": -1,
-                    "MaxStockThreshold": 100,
+                    "MaxStockThreshold": 1,
                     "MinStockThreshold": 1,
                     "SpawnAttachments": [],
                     "Variants": []
@@ -530,12 +527,14 @@
                 {
                     "ClassName": "GCGN_M200",
                     "MaxPriceThreshold": 20000,
-                    "MinPriceThreshold": 15000,
+                    "MinPriceThreshold": 20000,
                     "SellPricePercent": -1,
-                    "MaxStockThreshold": 100,
+                    "MaxStockThreshold": 1,
                     "MinStockThreshold": 1,
                     "SpawnAttachments": [],
-                    "Variants": []
+                    "Variants": [
+                        "GCGN_M200_Tan"
+                    ]
                 },
         
                 {
@@ -590,20 +589,19 @@
                 {
                     "ClassName": "GCGN_M249",
                     "MaxPriceThreshold": 20000,
-                    "MinPriceThreshold": 15000,
+                    "MinPriceThreshold": 20000,
                     "SellPricePercent": -1,
-                    "MaxStockThreshold": 100,
+                    "MaxStockThreshold": 1,
                     "MinStockThreshold": 1,
                     "SpawnAttachments": [],
                     "Variants": []
                 },
-        
                 {
                     "ClassName": "GCGN_M1Garand",
                     "MaxPriceThreshold": 20000,
-                    "MinPriceThreshold": 15000,
+                    "MinPriceThreshold": 20000,
                     "SellPricePercent": -1,
-                    "MaxStockThreshold": 100,
+                    "MaxStockThreshold": 1,
                     "MinStockThreshold": 1,
                     "SpawnAttachments": [],
                     "Variants": []
@@ -614,16 +612,6 @@
                     "MinPriceThreshold": 20000,
                     "SellPricePercent": -1,
                     "MaxStockThreshold": 1,
-                    "MinStockThreshold": 1,
-                    "SpawnAttachments": [],
-                    "Variants": []
-                },
-                {
-                    "ClassName": "GCGN_M200_Tan",
-                    "MaxPriceThreshold": 20000,
-                    "MinPriceThreshold": 15000,
-                    "SellPricePercent": -1,
-                    "MaxStockThreshold": 100,
                     "MinStockThreshold": 1,
                     "SpawnAttachments": [],
                     "Variants": []
@@ -720,9 +708,9 @@
                 {
                     "ClassName": "SNAFU_Agram_GUN",
                     "MaxPriceThreshold": 20000,
-                    "MinPriceThreshold": 15000,
+                    "MinPriceThreshold": 20000,
                     "SellPricePercent": -1,
-                    "MaxStockThreshold": 100,
+                    "MaxStockThreshold": 1,
                     "MinStockThreshold": 1,
                     "SpawnAttachments": [],
                     "Variants": []
@@ -730,9 +718,9 @@
                 {
                     "ClassName": "SNAFU_AK19",
                     "MaxPriceThreshold": 20000,
-                    "MinPriceThreshold": 15000,
+                    "MinPriceThreshold": 20000,
                     "SellPricePercent": -1,
-                    "MaxStockThreshold": 100,
+                    "MaxStockThreshold": 1,
                     "MinStockThreshold": 1,
                     "SpawnAttachments": [],
                     "Variants": []
@@ -740,9 +728,9 @@
                 {
                     "ClassName": "SNAFU_AK308",
                     "MaxPriceThreshold": 20000,
-                    "MinPriceThreshold": 15000,
+                    "MinPriceThreshold": 20000,
                     "SellPricePercent": -1,
-                    "MaxStockThreshold": 100,
+                    "MaxStockThreshold": 1,
                     "MinStockThreshold": 1,
                     "SpawnAttachments": [],
                     "Variants": []
@@ -1075,13 +1063,12 @@
                     "SpawnAttachments": [],
                     "Variants": []
                 },
-        
                 {
                     "ClassName": "SNAFU_ADAR_Modular16_GUN",
                     "MaxPriceThreshold": 20000,
-                    "MinPriceThreshold": 15000,
+                    "MinPriceThreshold": 20000,
                     "SellPricePercent": -1,
-                    "MaxStockThreshold": 100,
+                    "MaxStockThreshold": 1,
                     "MinStockThreshold": 1,
                     "SpawnAttachments": [],
                     "Variants": [
@@ -1163,6 +1150,26 @@
                     "MinPriceThreshold": 15000,
                     "SellPricePercent": -1,
                     "MaxStockThreshold": 100,
+                    "MinStockThreshold": 1,
+                    "SpawnAttachments": [],
+                    "Variants": []
+                },
+                {
+                    "ClassName": "HK416_Gun",
+                    "MaxPriceThreshold": 20000,
+                    "MinPriceThreshold": 20000,
+                    "SellPricePercent": -1,
+                    "MaxStockThreshold": 1,
+                    "MinStockThreshold": 1,
+                    "SpawnAttachments": [],
+                    "Variants": []
+                },
+                {
+                    "ClassName": "SN_Springfield",
+                    "MaxPriceThreshold": 20000,
+                    "MinPriceThreshold": 20000,
+                    "SellPricePercent": -1,
+                    "MaxStockThreshold": 1,
                     "MinStockThreshold": 1,
                     "SpawnAttachments": [],
                     "Variants": []

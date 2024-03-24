@@ -35,12 +35,12 @@
             "SpawnAttachments": [],
             "Variants": []
         },
-		        {
+		{
             "ClassName": "SNAFU_AK_Mount_Base",
             "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 400,
+            "MinPriceThreshold": 500,
             "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
+            "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
             "SpawnAttachments": [],
             "Variants": []

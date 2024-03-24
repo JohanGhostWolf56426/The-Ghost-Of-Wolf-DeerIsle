@@ -18,9 +18,9 @@
 {
     "ClassName": "GCGN_M84_Optic",
     "MaxPriceThreshold": 500,
-    "MinPriceThreshold": 400,
+    "MinPriceThreshold": 500,
     "SellPricePercent": -1,
-    "MaxStockThreshold": 100,
+    "MaxStockThreshold": 1,
     "MinStockThreshold": 1,
     "SpawnAttachments": [],
     "Variants": []
@@ -185,12 +185,12 @@
     "SpawnAttachments": [],
     "Variants": []
 },
-        {
+{
     "ClassName": "SNAFU_Aimpoint_ACO",
     "MaxPriceThreshold": 500,
-    "MinPriceThreshold": 400,
+    "MinPriceThreshold": 500,
     "SellPricePercent": -1,
-    "MaxStockThreshold": 100,
+    "MaxStockThreshold": 1,
     "MinStockThreshold": 1,
     "SpawnAttachments": [],
     "Variants": []
@@ -523,6 +523,16 @@
     "MinPriceThreshold": 400,
     "SellPricePercent": -1,
     "MaxStockThreshold": 100,
+    "MinStockThreshold": 1,
+    "SpawnAttachments": [],
+    "Variants": []
+},        
+{
+    "ClassName": "SNAFU_Aimpoint_M5",
+    "MaxPriceThreshold": 500,
+    "MinPriceThreshold": 500,
+    "SellPricePercent": -1,
+    "MaxStockThreshold": 1,
     "MinStockThreshold": 1,
     "SpawnAttachments": [],
     "Variants": []

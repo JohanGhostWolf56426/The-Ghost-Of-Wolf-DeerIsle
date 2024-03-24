@@ -8,9 +8,9 @@
 	    {
             "ClassName": "SA58_FGrip",
             "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 400,
+            "MinPriceThreshold": 500,
             "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
+            "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
             "SpawnAttachments": [],
             "Variants": []
@@ -58,22 +58,15 @@
 	    {
             "ClassName": "SNAFU_AFG_02_Black",
             "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 400,
+            "MinPriceThreshold": 500,
             "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
+            "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
             "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "SNAFU_AFG_02_OD",
-            "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 400,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "SpawnAttachments": [],
-            "Variants": []
+            "Variants": [
+                "SNAFU_AFG_02_OD",
+                "SNAFU_AFG_02_Tan"
+            ]
         },
 		{
             "ClassName": "SNAFU_FGKAC_Grip",
