@@ -26,18 +26,6 @@
             "Variants": []
         },
         {
-            "ClassName": "SNAFUScar_AFG_Tan",
-            "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 500,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "SpawnAttachments": [],
-            "Variants": [
-                "SNAFUScar_AFG_BK"
-            ]
-        },
-        {
             "ClassName": "SNAFUMPX_Grip",
             "MaxPriceThreshold": 500,
             "MinPriceThreshold": 500,

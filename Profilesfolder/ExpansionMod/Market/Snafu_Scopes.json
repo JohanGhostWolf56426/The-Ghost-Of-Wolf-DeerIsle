@@ -76,16 +76,6 @@
             "Variants": []
         },
         {
-            "ClassName": "SNAFU_AKAimpoint_ACO",
-            "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 500,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
             "ClassName": "SNAFU_Elcan",
             "MaxPriceThreshold": 500,
             "MinPriceThreshold": 500,

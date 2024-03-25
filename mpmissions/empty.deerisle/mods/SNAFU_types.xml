@@ -299,19 +299,6 @@
         <usage name="Military"/>
         <value name="Tier4"/>
     </type>
-    <type name="GCGN_M4A1">
-        <nominal>1</nominal>
-        <restock>1800</restock>
-        <lifetime>7200</lifetime>
-        <min>1</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_hoarder="0" count_in_player="1" count_in_map="0" count_in_cargo="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-        <usage name="Military"/>
-        <value name="Tier4"/>
-    </type>
     <type name="GCGN_M700_Mag">
         <nominal>1</nominal>
         <restock>1800</restock>
@@ -429,19 +416,6 @@
         <usage name="Military"/>
         <value name="Tier4"/>
     </type>
-    <type name="GCGN_Vityaz_30Rnd">
-        <nominal>1</nominal>
-        <restock>1800</restock>
-        <lifetime>7200</lifetime>
-        <min>1</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_hoarder="0" count_in_player="1" count_in_map="0" count_in_cargo="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-        <usage name="Military"/>
-        <value name="Tier4"/>
-    </type>
     <type name="GCGN_Vityaz">
         <nominal>1</nominal>
         <restock>1800</restock>
@@ -469,19 +443,6 @@
         <value name="Tier4"/>
     </type>
     <type name="IA2_Gun">
-        <nominal>1</nominal>
-        <restock>1800</restock>
-        <lifetime>7200</lifetime>
-        <min>1</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_hoarder="0" count_in_player="1" count_in_map="0" count_in_cargo="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-        <usage name="Military"/>
-        <value name="Tier4"/>
-    </type>
-    <type name="M4_6933_Gun">
         <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
@@ -2639,19 +2600,6 @@
         <usage name="Military"/>
         <value name="Tier4"/>
     </type>
-    <type name="SNAFU_M4300AC_14DV_GUN">
-        <nominal>1</nominal>
-        <restock>1800</restock>
-        <lifetime>7200</lifetime>
-        <min>1</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_hoarder="0" count_in_player="1" count_in_map="0" count_in_cargo="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-        <usage name="Military"/>
-        <value name="Tier4"/>
-    </type>
     <type name="SNAFU_M4300AC_16_GUN">
         <nominal>1</nominal>
         <restock>1800</restock>
@@ -4368,50 +4316,11 @@
         <usage name="Military"/>
         <value name="Tier4"/>
     </type>
-    <type name="SNAFUAR15_SPR_100RND_Mag">
-        <nominal>1</nominal>
-        <restock>1800</restock>
-        <lifetime>7200</lifetime>
-        <min>1</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_hoarder="0" count_in_player="1" count_in_map="0" count_in_cargo="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-        <usage name="Military"/>
-        <value name="Tier4"/>
-    </type>
     <type name="SNAFUAR15_SPR_30RND_Mag">
         <nominal>0</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
         <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_hoarder="0" count_in_player="1" count_in_map="0" count_in_cargo="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-        <usage name="Military"/>
-        <value name="Tier4"/>
-    </type>
-    <type name="SNAFUAR15_SPR_40RND_Mag">
-        <nominal>1</nominal>
-        <restock>1800</restock>
-        <lifetime>7200</lifetime>
-        <min>1</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_hoarder="0" count_in_player="1" count_in_map="0" count_in_cargo="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-        <usage name="Military"/>
-        <value name="Tier4"/>
-    </type>
-    <type name="SNAFUAR15_SPR_60RND_Mag">
-        <nominal>1</nominal>
-        <restock>1800</restock>
-        <lifetime>7200</lifetime>
-        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -5321,32 +5230,6 @@
         <usage name="Military"/>
         <value name="Tier4"/>
     </type>
-    <type name="SNAFUScar_AFG_BK">
-        <nominal>1</nominal>
-        <restock>1800</restock>
-        <lifetime>7200</lifetime>
-        <min>1</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_hoarder="0" count_in_player="1" count_in_map="0" count_in_cargo="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-        <usage name="Military"/>
-        <value name="Tier4"/>
-    </type>
-    <type name="SNAFUScar_AFG_Tan">
-        <nominal>1</nominal>
-        <restock>1800</restock>
-        <lifetime>7200</lifetime>
-        <min>1</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_hoarder="0" count_in_player="1" count_in_map="0" count_in_cargo="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-        <usage name="Military"/>
-        <value name="Tier4"/>
-    </type>
     <type name="SNAFUSR3_Vikhr">
         <nominal>1</nominal>
         <restock>1800</restock>
@@ -5737,19 +5620,6 @@
         <usage name="Military"/>
         <value name="Tier4"/>
     </type>
-    <type name="SR3_Vikhr_Supp">
-        <nominal>1</nominal>
-        <restock>1800</restock>
-        <lifetime>7200</lifetime>
-        <min>1</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_hoarder="0" count_in_player="1" count_in_map="0" count_in_cargo="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-        <usage name="Military"/>
-        <value name="Tier4"/>
-    </type>
     <type name="Tec9_Gun">
         <nominal>1</nominal>
         <restock>1800</restock>
@@ -6062,59 +5932,7 @@
         <usage name="Military"/>
         <value name="Tier4"/>
     </type>
-    <type name="SNAFUAR15_SPR_Black_GUN">
-        <nominal>30</nominal>
-        <restock>0</restock>
-        <lifetime>7200</lifetime>
-        <min>10</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-        <usage name="Military"/>
-        <value name="Tier4"/>
-    </type>
-    <type name="SNAFUAR15_SPR_Tan_GUN">
-        <nominal>30</nominal>
-        <restock>0</restock>
-        <lifetime>7200</lifetime>
-        <min>10</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-        <usage name="Military"/>
-        <value name="Tier4"/>
-    </type>
     <type name="SNAFUVSSK_5rdMag">
-        <nominal>30</nominal>
-        <restock>0</restock>
-        <lifetime>7200</lifetime>
-        <min>10</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-        <usage name="Military"/>
-        <value name="Tier4"/>
-    </type>
-    <type name="SR3_Vikhr_Gun">
-        <nominal>30</nominal>
-        <restock>0</restock>
-        <lifetime>7200</lifetime>
-        <min>10</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-        <usage name="Military"/>
-        <value name="Tier4"/>
-    </type>
-    <type name="SR3_Vikhr_Mag">
         <nominal>30</nominal>
         <restock>0</restock>
         <lifetime>7200</lifetime>

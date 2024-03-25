@@ -84,17 +84,6 @@
             "Variants": []
         },
         {
-            "ClassName": "ttp90",
-            "MaxPriceThreshold": 1400,
-            "MinPriceThreshold": 1400,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
             "ClassName": "ots71",
             "MaxPriceThreshold": 2000,
             "MinPriceThreshold": 2000,

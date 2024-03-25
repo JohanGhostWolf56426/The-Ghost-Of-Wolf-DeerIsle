@@ -220,18 +220,6 @@
             "Variants": []
         },
         {
-            "ClassName": "SNAFUAR15_SPR_Black_GUN",
-            "MaxPriceThreshold": 20000,
-            "MinPriceThreshold": 20000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "SpawnAttachments": [],
-            "Variants": [
-                "SNAFUAR15_SPR_Tan_GUN"
-            ]
-        },
-        {
             "ClassName": "SNAFU_AK12A",
             "MaxPriceThreshold": 20000,
             "MinPriceThreshold": 20000,
@@ -275,16 +263,6 @@
             "Variants": []
         },
         {
-            "ClassName": "GCGN_M4A1",
-            "MaxPriceThreshold": 20000,
-            "MinPriceThreshold": 20000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
             "ClassName": "GCGN_HK416",
             "MaxPriceThreshold": 20000,
             "MinPriceThreshold": 20000,
@@ -316,16 +294,6 @@
         },
         {
             "ClassName": "ACR_Gun",
-            "MaxPriceThreshold": 20000,
-            "MinPriceThreshold": 20000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "M4_6933_Gun",
             "MaxPriceThreshold": 20000,
             "MinPriceThreshold": 20000,
             "SellPricePercent": -1,
@@ -519,7 +487,9 @@
             "MinStockThreshold": 1,
             "SpawnAttachments": [],
             "Variants": [
-                "GCGN_M200_Tan"
+                "GCGN_M200_Tan",
+                "SNAFU_M200Green",
+                "SNAFU_M200SNOW"
             ]
         },
         {
@@ -1042,9 +1012,17 @@
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
             "SpawnAttachments": [],
-            "Variants": [
-                "SNAFU_M4556_Modular16_GUN"
-            ]
+            "Variants": []
+        },
+        {
+            "ClassName": "SNAFU_M4556_Modular16_GUN",
+            "MaxPriceThreshold": 20000,
+            "MinPriceThreshold": 20000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
         },
         {
             "ClassName": "SNAFU_Saint556_Gun",
@@ -1076,11 +1054,27 @@
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
             "SpawnAttachments": [],
-            "Variants": [
-                "SNAFU_M4300AC_14_GUN",
-                "SNAFU_M4300AC_16_GUN",
-                "SNAFU_M4300AC_14DV_GUN"
-            ]
+            "Variants": []
+        },
+        {
+            "ClassName": "SNAFU_M4300AC_14_GUN",
+            "MaxPriceThreshold": 20000,
+            "MinPriceThreshold": 20000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "SNAFU_M4300AC_16_GUN",
+            "MaxPriceThreshold": 20000,
+            "MinPriceThreshold": 20000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
         },
         {
             "ClassName": "SNAFU_M4556_Modular10_GUN",
@@ -1111,18 +1105,6 @@
             "MinStockThreshold": 1,
             "SpawnAttachments": [],
             "Variants": []
-        },
-        {
-            "ClassName": "SNAFU_M200Green",
-            "MaxPriceThreshold": 20000,
-            "MinPriceThreshold": 20000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "SpawnAttachments": [],
-            "Variants": [
-                "SNAFU_M200SNOW"
-            ]
         },
         {
             "ClassName": "SNAFU_M300BK",
@@ -1199,16 +1181,6 @@
         },
         {
             "ClassName": "SNAFU_PL14HQP",
-            "MaxPriceThreshold": 20000,
-            "MinPriceThreshold": 20000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "SR3_Vikhr_Gun",
             "MaxPriceThreshold": 20000,
             "MinPriceThreshold": 20000,
             "SellPricePercent": -1,
