@@ -55,7 +55,7 @@
             "SpawnAttachments": [],
             "Variants": []
         },
-		        {
+		{
             "ClassName": "SNAFU_Mosin_Mount_Base",
             "MaxPriceThreshold": 500,
             "MinPriceThreshold": 500,
@@ -100,46 +100,6 @@
             "Variants": []
         },
         {
-            "ClassName": "SNAFU_556_Barrel10",
-            "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 500,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-		{
-            "ClassName": "SNAFU_556_Barrel14",
-            "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 500,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "SNAFU_556_Barrel14_DV",
-            "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 500,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-		{
-            "ClassName": "SNAFU_556_Barrel16",
-            "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 500,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
             "ClassName": "SNAFU_PistolGripColtA2",
             "MaxPriceThreshold": 500,
             "MinPriceThreshold": 500,
@@ -159,6 +119,5 @@
             "SpawnAttachments": [],
             "Variants": []
         }
-		
 	]
 }	

@@ -1,5 +1,3 @@
-
-Add Missing Snafu Trader Items
 Adjust Snafu Loot Spawns
 Add Snafu to Airdrop
 Add Expansion CodeLock to Trader:Sell Only
@@ -15,3 +13,4 @@ Rework DeerIsle Ammo Size
 ReWork DeerIsle Ammo Stacks
 Rework DeerIsle Mag Size
 Rework Compatiblity between Vanilla, DeerIsle, Sanfu Weapons
+Rework trader prices

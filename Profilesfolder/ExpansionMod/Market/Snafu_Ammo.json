@@ -44,7 +44,8 @@
             "MinStockThreshold": 1,
             "SpawnAttachments": [],
             "Variants": []
-        },        {
+        },        
+        {
             "ClassName": "SNAFU_Ammo_5_7x28mm",
             "MaxPriceThreshold": 500,
             "MinPriceThreshold": 500,
@@ -64,7 +65,7 @@
             "SpawnAttachments": [],
             "Variants": []
         },
-		        {
+		{
             "ClassName": "SNAFU_Ammo_45_70mm",
             "MaxPriceThreshold": 500,
             "MinPriceThreshold": 500,
@@ -84,7 +85,7 @@
             "SpawnAttachments": [],
             "Variants": []
         },
-		        {
+		{
             "ClassName": "SNAFU_Ammo_145Cal",
             "MaxPriceThreshold": 500,
             "MinPriceThreshold": 500,
@@ -104,7 +105,7 @@
             "SpawnAttachments": [],
             "Variants": []
         },
-		        {
+		{
             "ClassName": "SNAFU_Ammo_762x25",
             "MaxPriceThreshold": 500,
             "MinPriceThreshold": 500,
@@ -146,6 +147,16 @@
         },
 		{
             "ClassName": "GCGN_Ammo_408Chey",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "SNAFU_Ammo_127x55mmAP",
             "MaxPriceThreshold": 500,
             "MinPriceThreshold": 500,
             "SellPricePercent": -1,

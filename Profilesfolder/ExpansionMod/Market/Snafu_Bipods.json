@@ -25,7 +25,7 @@
             "SpawnAttachments": [],
             "Variants": []
         },
-		        {
+		{
             "ClassName": "SNAFU_NPKPBIPOD",
             "MaxPriceThreshold": 500,
             "MinPriceThreshold": 500,
@@ -45,7 +45,7 @@
             "SpawnAttachments": [],
             "Variants": []
         },
-		        {
+		{
             "ClassName": "SNAFU_ModBipod",
             "MaxPriceThreshold": 500,
             "MinPriceThreshold": 500,
@@ -54,7 +54,36 @@
             "MinStockThreshold": 1,
             "SpawnAttachments": [],
             "Variants": []
+        },
+		{
+            "ClassName": "SNAFU_M200B_BK",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "SNAFU_M249Bipod",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "SNAFU_VSSKbipod",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
         }
-		
 	]
 }	

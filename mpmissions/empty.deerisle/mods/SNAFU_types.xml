@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <types>
     <type name="GCGN_M82_Barret">
         <nominal>1</nominal>
@@ -5828,45 +5828,6 @@
         <usage name="Military"/>
         <value name="Tier4"/>
     </type>
-    <type name="GCGN_M1Garand_FH">
-        <nominal>30</nominal>
-        <restock>0</restock>
-        <lifetime>7200</lifetime>
-        <min>10</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-        <usage name="Military"/>
-        <value name="Tier4"/>
-    </type>
-    <type name="GCGN_M1Garand_Muzzle">
-        <nominal>30</nominal>
-        <restock>0</restock>
-        <lifetime>7200</lifetime>
-        <min>10</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-        <usage name="Military"/>
-        <value name="Tier4"/>
-    </type>
-    <type name="SNAFU_30mm_Mount_Base">
-        <nominal>30</nominal>
-        <restock>0</restock>
-        <lifetime>7200</lifetime>
-        <min>10</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-        <usage name="Military"/>
-        <value name="Tier4"/>
-    </type>
     <type name="SNAFU_50bmg_Suppressor_B">
         <nominal>30</nominal>
         <restock>0</restock>
@@ -5958,33 +5919,7 @@
         <usage name="Military"/>
         <value name="Tier4"/>
     </type>
-    <type name="SNAFU_EOTech_EXPS">
-        <nominal>30</nominal>
-        <restock>0</restock>
-        <lifetime>7200</lifetime>
-        <min>10</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-        <usage name="Military"/>
-        <value name="Tier4"/>
-    </type>
     <type name="SNAFU_Kabar">
-        <nominal>30</nominal>
-        <restock>0</restock>
-        <lifetime>7200</lifetime>
-        <min>10</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-        <usage name="Military"/>
-        <value name="Tier4"/>
-    </type>
-    <type name="SNAFU_Kabar_BK">
         <nominal>30</nominal>
         <restock>0</restock>
         <lifetime>7200</lifetime>
@@ -6180,6 +6115,19 @@
         <value name="Tier4"/>
     </type>
     <type name="SR3_Vikhr_Mag">
+        <nominal>30</nominal>
+        <restock>0</restock>
+        <lifetime>7200</lifetime>
+        <min>10</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier4"/>
+    </type>
+    <type name="SNAFU_M4556_Modular10_GUN">
         <nominal>30</nominal>
         <restock>0</restock>
         <lifetime>7200</lifetime>
