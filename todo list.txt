@@ -14,3 +14,5 @@ ReWork DeerIsle Ammo Stacks
 Rework DeerIsle Mag Size
 Rework Compatiblity between Vanilla, DeerIsle, Sanfu Weapons
 Rework trader prices
+Add Atm
+Add Personal storage
