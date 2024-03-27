@@ -360,9 +360,29 @@
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "ammo_40mm_chemgas",
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 1000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "ammo_40mm_smoke_black",
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 1000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
             "Variants": [
-                "ammo_40mm_chemgas",
-                "ammo_40mm_smoke_black",
                 "ammo_40mm_smoke_green",
                 "ammo_40mm_smoke_white",
                 "ammo_40mm_smoke_red"

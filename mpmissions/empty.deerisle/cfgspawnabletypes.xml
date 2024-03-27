@@ -3394,11 +3394,6 @@
 		<attachments chance="0.75">
 			<item name="Mag_AKM_30Rnd" chance="1.00" />
 		</attachments>		
-	</type>			
-	<type name="ttp90">
-		<attachments chance="0.75">
-			<item name="ttp90mag" chance="1.00" />
-		</attachments>		
 	</type>	
 	<type name="ots71">
 		<attachments chance="0.75">

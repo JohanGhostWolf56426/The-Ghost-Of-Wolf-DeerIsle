@@ -524,17 +524,6 @@
             "Variants": []
         },
         {
-            "ClassName": "ttp90mag",
-            "MaxPriceThreshold": 640,
-            "MinPriceThreshold": 640,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
             "ClassName": "Mag_Expansion_Taser",
             "MaxPriceThreshold": 1200,
             "MinPriceThreshold": 1200,

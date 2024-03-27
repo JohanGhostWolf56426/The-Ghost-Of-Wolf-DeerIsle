@@ -1,0 +1,55 @@
+{
+    "ActiveReward": 1,
+    "PorcentageDrop": 50,
+    "Reward": [
+        {
+            "Name": "Reward1",
+            "Container": "PredatorClaw_Storage",
+            "Items": [
+                {
+                    "Item": "SNAFU_M4300AC_16_GUN",
+                    "Quantity": 1,
+                    "ItemAttachments": [
+                        "SNAFU_MK15",
+                        "SNAFU_SBA_Stock",
+                        "SNAFU_EOTech_EXPS3",
+                        "SNAFUAR15_SPR_SQSIL",
+                        "SNAFU_AFG_02_Black",
+                        "SNAFU_TACGripColtA2_BK",
+                        "SNAFUUniversalLight"
+                    ]
+                },
+                {
+                    "Item": "Battery9V",
+                    "Quantity": 1,
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "Battery9V",
+                    "Quantity": 1,
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "SNAFU_CMAG30300_Black",
+                    "Quantity": 1,
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "SNAFU_CMAG30300_Black",
+                    "Quantity": 1,
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "SNAFU_CMAG30300_Black",
+                    "Quantity": 1,
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "SNAFU_CMAG30300_Black",
+                    "Quantity": 1,
+                    "ItemAttachments": []
+                }
+            ]
+        }
+    ]
+}
