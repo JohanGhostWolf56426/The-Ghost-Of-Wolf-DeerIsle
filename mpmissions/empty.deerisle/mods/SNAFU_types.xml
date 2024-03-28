@@ -224,11 +224,222 @@
         <usage name="Military"/>
         <value name="Tier8" />
     </type>
-    <type name="GCGN_M1Garand_Bayonet">
+    <type name="GCGN_M1Garand_Bayonet"><!--2-->
         <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
         <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_hoarder="0" count_in_player="1" count_in_map="0" count_in_cargo="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier1" />
+        <value name="Tier4" />
+        <value name="Tier7" />
+        <value name="Tier13" />
+        <value name="Tier8" />
+        <value name="Tier5" />
+        <value name="Tier11" />
+        <value name="Tier3" />
+        <value name="Tier6" />
+        <value name="Tier9" />
+    </type>
+    <type name="GCGN_M1Garand_FlashHider"><!--2-->
+        <nominal>1</nominal>
+        <restock>1800</restock>
+        <lifetime>7200</lifetime>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_hoarder="0" count_in_player="1" count_in_map="0" count_in_cargo="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier15" />
+        <value name="Tier1" />
+        <value name="Tier9" />
+        <value name="Tier13" />
+        <value name="Tier5" />
+        <value name="Tier12" />
+        <value name="Tier11" />
+    </type>
+    <type name="GCGN_M1Garand_Supp"><!--2-->
+        <nominal>1</nominal>
+        <restock>1800</restock>
+        <lifetime>7200</lifetime>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_hoarder="0" count_in_player="1" count_in_map="0" count_in_cargo="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier15" />
+        <value name="Tier1" />
+        <value name="Tier17" />
+        <value name="Tier4" />
+        <value name="Tier13" />
+    </type>
+    <type name="GCGN_M1Garand"><!--2-->
+        <nominal>1</nominal>
+        <restock>1800</restock>
+        <lifetime>7200</lifetime>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_hoarder="0" count_in_player="1" count_in_map="0" count_in_cargo="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier1" />
+        <value name="Tier4" />
+        <value name="Tier8" />
+        <value name="Tier5" />
+        <value name="Tier11" />
+        <value name="Tier3" />
+        <value name="Tier6" />
+        <value name="Tier10" />
+    </type>
+    <type name="GCGN_M200_Mag"><!--2-->
+        <nominal>1</nominal>
+        <restock>1800</restock>
+        <lifetime>7200</lifetime>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_hoarder="0" count_in_player="1" count_in_map="0" count_in_cargo="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier17" />
+        <value name="Tier18" />
+        <value name="Tier7" />
+        <value name="Tier9" />
+        <value name="Tier13" />
+        <value name="Tier10" />
+    </type>
+    <type name="GCGN_M200_Tan"><!--2-->
+        <nominal>1</nominal>
+        <restock>1800</restock>
+        <lifetime>7200</lifetime>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_hoarder="0" count_in_player="1" count_in_map="0" count_in_cargo="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier8" />
+    </type>
+    <type name="GCGN_M200"><!--2-->
+        <nominal>1</nominal>
+        <restock>1800</restock>
+        <lifetime>7200</lifetime>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_hoarder="0" count_in_player="1" count_in_map="0" count_in_cargo="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier8" />
+    </type>
+    <type name="GCGN_M249_Mag"><!--2-->
+        <nominal>1</nominal>
+        <restock>1800</restock>
+        <lifetime>7200</lifetime>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_hoarder="0" count_in_player="1" count_in_map="0" count_in_cargo="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier9" />
+    </type>
+    <type name="GCGN_M249"><!--2-->
+        <nominal>1</nominal>
+        <restock>1800</restock>
+        <lifetime>7200</lifetime>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_hoarder="0" count_in_player="1" count_in_map="0" count_in_cargo="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier10" />
+    </type>
+    <type name="GCGN_M700_Mag"><!--2-->
+        <nominal>1</nominal>
+        <restock>1800</restock>
+        <lifetime>7200</lifetime>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_hoarder="0" count_in_player="1" count_in_map="0" count_in_cargo="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier17" />
+        <value name="Tier7" />
+        <value name="Tier13" />
+        <value name="Tier6" />
+    </type>
+    <type name="GCGN_M700"><!--2-->
+        <nominal>1</nominal>
+        <restock>1800</restock>
+        <lifetime>7200</lifetime>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_hoarder="0" count_in_player="1" count_in_map="0" count_in_cargo="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier18" />
+        <value name="Tier8" />
+        <value name="Tier14" />
+        <value name="Tier7" />
+    </type>
+    <type name="GCGN_M82_Mag"><!--2-->
+        <nominal>1</nominal>
+        <restock>1800</restock>
+        <lifetime>7200</lifetime>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_hoarder="0" count_in_player="1" count_in_map="0" count_in_cargo="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier16" />
+    </type>
+    <type name="GCGN_M84_Optic"><!--2-->
+        <nominal>1</nominal>
+        <restock>1800</restock>
+        <lifetime>7200</lifetime>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_hoarder="0" count_in_player="1" count_in_map="0" count_in_cargo="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier15" />
+        <value name="Tier1" />
+        <value name="Tier17" />
+        <value name="Tier8" />
+        <value name="Tier3" />
+        <value name="Tier6" />
+    </type>
+    <type name="GCGN_Mag_FAL_50Rnd"><!--2--><!--events and loot boxes-->
+        <nominal>0</nominal>
+        <restock>1800</restock>
+        <lifetime>7200</lifetime>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -237,7 +448,7 @@
         <usage name="Military"/>
         <value name="Tier4"/>
     </type>
-    <type name="GCGN_M1Garand_FlashHider">
+    <type name="GCGN_MP7_40Rnd"><!--2-->
         <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
@@ -248,9 +459,11 @@
         <flags count_in_hoarder="0" count_in_player="1" count_in_map="0" count_in_cargo="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-        <value name="Tier4"/>
+        <value name="Tier8" />
+        <value name="Tier9" />
+        <value name="Tier13" />
     </type>
-    <type name="GCGN_M1Garand_Supp">
+    <type name="GCGN_MP7"><!--2-->
         <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
@@ -261,9 +474,11 @@
         <flags count_in_hoarder="0" count_in_player="1" count_in_map="0" count_in_cargo="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-        <value name="Tier4"/>
+        <value name="Tier8" />
+        <value name="Tier9" />
+        <value name="Tier13" />
     </type>
-    <type name="GCGN_M1Garand">
+    <type name="GCGN_VEPR_10rnd"><!--2-->
         <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
@@ -274,9 +489,17 @@
         <flags count_in_hoarder="0" count_in_player="1" count_in_map="0" count_in_cargo="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-        <value name="Tier4"/>
+        <value name="Tier16" />
+        <value name="Tier18" />
+        <value name="Tier5" />
+        <value name="Tier10" />
+        <value name="Tier14" />
+        <value name="Tier6" />
+        <value name="Tier4" />
+        <value name="Tier7" />
+        <value name="Tier11" />
     </type>
-    <type name="GCGN_M200_Mag">
+    <type name="GCGN_VEPR"><!--2-->
         <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
@@ -287,9 +510,17 @@
         <flags count_in_hoarder="0" count_in_player="1" count_in_map="0" count_in_cargo="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-        <value name="Tier4"/>
+        <value name="Tier17" />
+        <value name="Tier1" />
+        <value name="Tier6" />
+        <value name="Tier11" />
+        <value name="Tier15" />
+        <value name="Tier7" />
+        <value name="Tier5" />
+        <value name="Tier8" />
+        <value name="Tier12" />
     </type>
-    <type name="GCGN_M200_Tan">
+    <type name="GCGN_Vityaz"><!--2-->
         <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
@@ -300,9 +531,13 @@
         <flags count_in_hoarder="0" count_in_player="1" count_in_map="0" count_in_cargo="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-        <value name="Tier4"/>
+        <value name="Tier4" />
+        <value name="Tier7" />
+        <value name="Tier8" />
+        <value name="Tier9" />
+        <value name="Tier13" />
     </type>
-    <type name="GCGN_M200">
+    <type name="HK416_Gun"><!--2-->
         <nominal>1</nominal>
         <restock>1800</restock>
         <lifetime>7200</lifetime>
@@ -313,176 +548,9 @@
         <flags count_in_hoarder="0" count_in_player="1" count_in_map="0" count_in_cargo="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-        <value name="Tier4"/>
-    </type>
-    <type name="GCGN_M249_Mag">
-        <nominal>1</nominal>
-        <restock>1800</restock>
-        <lifetime>7200</lifetime>
-        <min>1</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_hoarder="0" count_in_player="1" count_in_map="0" count_in_cargo="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-        <usage name="Military"/>
-        <value name="Tier4"/>
-    </type>
-    <type name="GCGN_M249">
-        <nominal>1</nominal>
-        <restock>1800</restock>
-        <lifetime>7200</lifetime>
-        <min>1</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_hoarder="0" count_in_player="1" count_in_map="0" count_in_cargo="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-        <usage name="Military"/>
-        <value name="Tier4"/>
-    </type>
-    <type name="GCGN_M700_Mag">
-        <nominal>1</nominal>
-        <restock>1800</restock>
-        <lifetime>7200</lifetime>
-        <min>1</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_hoarder="0" count_in_player="1" count_in_map="0" count_in_cargo="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-        <usage name="Military"/>
-        <value name="Tier4"/>
-    </type>
-    <type name="GCGN_M700">
-        <nominal>1</nominal>
-        <restock>1800</restock>
-        <lifetime>7200</lifetime>
-        <min>1</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_hoarder="0" count_in_player="1" count_in_map="0" count_in_cargo="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-        <usage name="Military"/>
-        <value name="Tier4"/>
-    </type>
-    <type name="GCGN_M82_Mag">
-        <nominal>1</nominal>
-        <restock>1800</restock>
-        <lifetime>7200</lifetime>
-        <min>1</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_hoarder="0" count_in_player="1" count_in_map="0" count_in_cargo="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-        <usage name="Military"/>
-        <value name="Tier4"/>
-    </type>
-    <type name="GCGN_M84_Optic">
-        <nominal>1</nominal>
-        <restock>1800</restock>
-        <lifetime>7200</lifetime>
-        <min>1</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_hoarder="0" count_in_player="1" count_in_map="0" count_in_cargo="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-        <usage name="Military"/>
-        <value name="Tier4"/>
-    </type>
-    <type name="GCGN_Mag_FAL_50Rnd">
-        <nominal>1</nominal>
-        <restock>1800</restock>
-        <lifetime>7200</lifetime>
-        <min>1</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_hoarder="0" count_in_player="1" count_in_map="0" count_in_cargo="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-        <usage name="Military"/>
-        <value name="Tier4"/>
-    </type>
-    <type name="GCGN_MP7_40Rnd">
-        <nominal>1</nominal>
-        <restock>1800</restock>
-        <lifetime>7200</lifetime>
-        <min>1</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_hoarder="0" count_in_player="1" count_in_map="0" count_in_cargo="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-        <usage name="Military"/>
-        <value name="Tier4"/>
-    </type>
-    <type name="GCGN_MP7">
-        <nominal>1</nominal>
-        <restock>1800</restock>
-        <lifetime>7200</lifetime>
-        <min>1</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_hoarder="0" count_in_player="1" count_in_map="0" count_in_cargo="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-        <usage name="Military"/>
-        <value name="Tier4"/>
-    </type>
-    <type name="GCGN_VEPR_10rnd">
-        <nominal>1</nominal>
-        <restock>1800</restock>
-        <lifetime>7200</lifetime>
-        <min>1</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_hoarder="0" count_in_player="1" count_in_map="0" count_in_cargo="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-        <usage name="Military"/>
-        <value name="Tier4"/>
-    </type>
-    <type name="GCGN_VEPR">
-        <nominal>1</nominal>
-        <restock>1800</restock>
-        <lifetime>7200</lifetime>
-        <min>1</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_hoarder="0" count_in_player="1" count_in_map="0" count_in_cargo="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-        <usage name="Military"/>
-        <value name="Tier4"/>
-    </type>
-    <type name="GCGN_Vityaz">
-        <nominal>1</nominal>
-        <restock>1800</restock>
-        <lifetime>7200</lifetime>
-        <min>1</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_hoarder="0" count_in_player="1" count_in_map="0" count_in_cargo="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-        <usage name="Military"/>
-        <value name="Tier4"/>
-    </type>
-    <type name="HK416_Gun">
-        <nominal>1</nominal>
-        <restock>1800</restock>
-        <lifetime>7200</lifetime>
-        <min>1</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_hoarder="0" count_in_player="1" count_in_map="0" count_in_cargo="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-        <usage name="Military"/>
-        <value name="Tier4"/>
+        <value name="Tier16" />
+        <value name="Tier8" />
+        <value name="Tier14" />
     </type>
     <type name="IA2_Gun">
         <nominal>1</nominal>
