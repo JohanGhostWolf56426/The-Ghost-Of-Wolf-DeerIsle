@@ -26,3 +26,8 @@ Adjust CannabisPlus profiles file
 Resize Vanilla Medical Kit
 Resize Vanilla Protection Case
 Resize Vanilla Teddy Bear
+Switch over to RA_Basebuilding
+Remove BPP
+Remove CodeLock
+Switch MMG Base Storage to the no codelock version
+Disable Expansion Base Building
