@@ -704,7 +704,7 @@
     <value name="Tier9" />
     <value name="Tier10" />
   </type>
-  <type name="AmmoBox_545x39Tracer_20Rnd"><!--3-->
+  <type name="AmmoBox_545x39Tracer_20Rnd"><!--3--><!--4-->
     <nominal>10</nominal>
     <lifetime>10800</lifetime>
     <restock>0</restock>
@@ -721,7 +721,7 @@
     <value name="Tier6" />
     <value name="Tier7" />
     <value name="Tier8" />
-    <value name="Tier10" />
+    <value name="Tier9" />
   </type>
   <type name="AmmoBox_545x39_20Rnd"><!--3-->
     <nominal>15</nominal>

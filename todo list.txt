@@ -31,3 +31,5 @@ Remove BPP
 Remove CodeLock
 Switch MMG Base Storage to the no codelock version
 Disable Expansion Base Building
+Remove AdditionalMedicSupplies
+Remove Advanced Weapon Scopes
