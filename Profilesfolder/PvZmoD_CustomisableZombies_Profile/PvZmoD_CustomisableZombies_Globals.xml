@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-
+
+
 <!--  ___________ YOU CAN FIND DETAILED INSTRUCTIONS in PvZmoD_CustomisableZombies_HELP.txt file ___________  -->
 <!-- See the new Features at the end of the file -->
-
+
+
 <types>
 	<type name="File_Name">
         <Customisable_Zombies_List 		File_Name = "PvZmoD_CustomisableZombies_Characteristics.xml"/>	<!-- don't forget .xml extension  -->
@@ -20,11 +22,11 @@
 		<Bleeding_Chance_Activated	 						Day = "0"	Night = "0"/>	<!-- [0 or 1]  Can conflict with other mods if activated -->
 		<Zombies_Vision_Activated							Day = "1" 	Night = "1" WithBloodyHands="1" WithSpecialMask="1" MiniMumRatioDistance="1"/> <!-- [0 or 1]  -->
         <Player_Fist_Fighting_Activated 					Day = "1"	Night = "1"/>	<!-- [0 or 1]  -->
-		<Zombies_Hit_Players_On_Obstacles_Activated 		Day = "1"	Night = "1"/>	<!-- [0 or 1]  -->  
+		<Zombies_Hit_Players_On_Obstacles_Activated 		Day = "0"	Night = "0"/>	<!-- [0 or 1]  -->  
 		<Zombies_Hit_Unconscious_Players_Activated			Day	= "0"	Night = "0"/> 	<!-- [0 or 1]  -->		
 		<Zombies_Hearing_Doors_Player_Standing_Activated	Day	= "1"	Night = "1"/> 	<!-- [0 or 1]  -->
 		<Zombies_Hearing_Doors_Player_Crouching_Activated	Day	= "0"	Night = "0"/> 	<!-- [0 or 1]  -->
-		<Zombies_Breaking_Doors_Activated					Day = "1"	Night = "1"/>	<!-- [0 or 1]  -->
+		<Zombies_Breaking_Doors_Activated					Day = "0"	Night = "0"/>	<!-- [0 or 1]  -->
 		<Zombies_Breaking_LockedDoors_Activated				Day = "0"	Night = "0"/>	<!-- [0 or 1]  -->
 		<Zombies_Aggressive_Doors_Detection_Activated		Day = "1"	Night = "1"/>	<!-- [0 or 1]  -->
 		<Zombies_Size_Activated								Day = "1"	Night = "1"/>	<!-- [0 or 1]  -->
@@ -92,7 +94,7 @@
     </type>	
 	
 	<type name="Zombies_Throw_Stones">
-        <Zombies_Throw_Stones_Activated						Day	= "1"		Night = "1"/>		<!-- [0 or 1] -->
+        <Zombies_Throw_Stones_Activated						Day	= "0"		Night = "0"/>		<!-- [0 or 1] -->
         <Zombies_Throw_Stones_Only_If_Player_On_Obstacle	Day	= "1"		Night = "1"/>		<!-- [0 or 1] -->		
         <Zombies_Throw_Stones_Damage_Health					Day	= "2.5"		Night = "2.5"/> 	<!-- [Decimal 0.0 to infinite] -->
         <Zombies_Throw_Stones_Damage_Shock					Day	= "15.0"	Night = "15.0"/> 	<!-- [Decimal 0.0 to infinite] -->		
@@ -114,6 +116,6 @@
 	
 	<type name="NewFeatures">		<!-- New feautures, you should move them in the right section (not mandatory but cleaner structure is easier for you to tweak) -->        
   	</type>
-</types>
+</types>
+
 <!--  ___________ YOU CAN FIND DETAILED INSTRUCTIONS in PvZmoD_CustomisableZombies_HELP.txt file ___________  -->
-

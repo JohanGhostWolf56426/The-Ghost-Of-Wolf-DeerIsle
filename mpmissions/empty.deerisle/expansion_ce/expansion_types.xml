@@ -4158,11 +4158,11 @@
         <value name="Tier15" />
         <value name="Tier16" />
     </type>
-    <type name="Expansion_Ammo_ArrowBolt">
-        <nominal>75</nominal>
+    <type name="Expansion_Ammo_ArrowBolt"><!--5-->
+        <nominal>0</nominal>
         <lifetime>10800</lifetime>
         <restock>0</restock>
-        <min>55</min>
+        <min>0</min>
         <quantmin>20</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -4870,11 +4870,11 @@
         <usage name="Town"/>
         <usage name="Village"/>
     </type>
-	<type name="ExpansionBread1">
-        <nominal>25</nominal>
+	<type name="ExpansionBread1"><!--5-->
+        <nominal>26</nominal>
         <lifetime>1800</lifetime>
         <restock>0</restock>
-        <min>15</min>
+        <min>16</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -4885,11 +4885,11 @@
         <usage name="Town"/>
         <usage name="Village"/>
     </type>
-	<type name="ExpansionBread2">
-        <nominal>25</nominal>
+	<type name="ExpansionBread2"><!--5-->
+        <nominal>26</nominal>
         <lifetime>1800</lifetime>
         <restock>0</restock>
-        <min>15</min>
+        <min>16</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -4900,11 +4900,11 @@
         <usage name="Town"/>
         <usage name="Village"/>
     </type>
-	<type name="ExpansionBread3">
-        <nominal>25</nominal>
+	<type name="ExpansionBread3"><!--5-->
+        <nominal>26</nominal>
         <lifetime>1800</lifetime>
         <restock>0</restock>
-        <min>15</min>
+        <min>16</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -4915,11 +4915,11 @@
         <usage name="Town"/>
         <usage name="Village"/>
     </type>
-	<type name="ExpansionCheese1">
-        <nominal>25</nominal>
+	<type name="ExpansionCheese1"><!--5-->
+        <nominal>26</nominal>
         <lifetime>1800</lifetime>
         <restock>0</restock>
-        <min>15</min>
+        <min>16</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -4930,11 +4930,11 @@
         <usage name="Town"/>
         <usage name="Village"/>
     </type>
-	<type name="ExpansionCheese2">
-        <nominal>25</nominal>
+	<type name="ExpansionCheese2"><!--5-->
+        <nominal>26</nominal>
         <lifetime>1800</lifetime>
         <restock>0</restock>
-        <min>15</min>
+        <min>16</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -4945,11 +4945,11 @@
         <usage name="Town"/>
         <usage name="Village"/>
     </type>
-	<type name="ExpansionCheese3">
-        <nominal>25</nominal>
+	<type name="ExpansionCheese3"><!--5-->
+        <nominal>26</nominal>
         <lifetime>1800</lifetime>
         <restock>0</restock>
-        <min>15</min>
+        <min>16</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -4960,11 +4960,11 @@
         <usage name="Town"/>
         <usage name="Village"/>
     </type>
-	<type name="ExpansionCheese4">
-        <nominal>25</nominal>
+	<type name="ExpansionCheese4"><!--5-->
+        <nominal>26</nominal>
         <lifetime>1800</lifetime>
         <restock>0</restock>
-        <min>15</min>
+        <min>16</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>

@@ -33,3 +33,5 @@ Switch MMG Base Storage to the no codelock version
 Disable Expansion Base Building
 Remove AdditionalMedicSupplies
 Remove Advanced Weapon Scopes
+Remove Zen's Zombie virus
+Remove Zen's Repaiable Wells
