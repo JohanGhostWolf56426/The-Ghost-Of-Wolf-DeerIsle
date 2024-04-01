@@ -16,3 +16,22 @@ Rework Compatiblity between Vanilla, DeerIsle, Sanfu Weapons
 Rework trader prices
 Add Atm
 Add Personal storage
+Build Quest location
+Build Boat Trader
+Build Heli trader
+Build Black Market trader
+Add CannabisPlus to types
+Add CannabisPlusto traders
+Adjust CannabisPlus profiles file
+Resize Vanilla Medical Kit
+Resize Vanilla Protection Case
+Resize Vanilla Teddy Bear
+Switch over to RA_Basebuilding
+Remove BPP
+Remove CodeLock
+Switch MMG Base Storage to the no codelock version
+Disable Expansion Base Building
+Remove AdditionalMedicSupplies
+Remove Advanced Weapon Scopes
+Remove Zen's Zombie virus
+Remove Zen's Repaiable Wells
