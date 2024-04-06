@@ -35,3 +35,5 @@ Remove AdditionalMedicSupplies
 Remove Advanced Weapon Scopes
 Remove Zen's Zombie virus
 Remove Zen's Repaiable Wells
+Add Airstike
+Add The rest of the random spawnsselections
